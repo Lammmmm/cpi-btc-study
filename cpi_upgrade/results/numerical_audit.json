@@ -1,0 +1,12 @@
+{
+  "events": 92,
+  "fields": 429,
+  "window_groups": 2352,
+  "windows_point_estimates_max_error": 5.000166947155549e-14,
+  "trade_scenario_records": 5322,
+  "independent_events": 92,
+  "primary_tests": 18,
+  "statistical_seed": 20261012,
+  "bootstrap_resamples": 10000,
+  "not_unseen_holdout": true
+}

@@ -1,0 +1,12 @@
+{
+  "sheets": 11,
+  "events": 92,
+  "monthly_complete": 91,
+  "count_formulas_recalculated": true,
+  "all_matrices_match_python": true,
+  "source_edit_propagation_test": true,
+  "all_sheets_rendered": true,
+  "complex_statistics": "fixed Python snapshots; reproduce to update",
+  "rows_windows": 2352,
+  "rows_strategy": 4410
+}

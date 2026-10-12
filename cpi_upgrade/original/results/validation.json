@@ -1,0 +1,11 @@
+{
+  "synthetic_tests": "pass",
+  "events": 92,
+  "short_window_events": 92,
+  "24h_events": 91,
+  "max_raw_csv_r15_error": 4.661548924644876e-14,
+  "constraints": "pass",
+  "legacy_recomputed_n": 14,
+  "legacy_named_but_ineligible": [],
+  "eligible_not_legacy_named": []
+}

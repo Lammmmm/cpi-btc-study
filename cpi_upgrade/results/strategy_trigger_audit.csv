@@ -1,0 +1,277 @@
+﻿date,family,eligible_initial_nonzero,eligible_strong03,eligible_strong03_core_aligned,first_trigger_min,triggered_by240,no_trigger_by240,trigger_observation_status,fixed240_executable,confirm_min
+2019-01-11,B,1,0,0,25,1,0,complete 0-240m,1,
+2019-01-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2019-01-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2019-02-13,B,1,0,0,,0,1,complete 0-240m,0,
+2019-02-13,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2019-02-13,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2019-03-12,B,1,0,0,55,1,0,complete 0-240m,1,
+2019-03-12,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2019-03-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2019-04-10,B,1,1,1,,0,1,complete 0-240m,0,
+2019-04-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2019-04-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2019-05-10,B,1,1,1,,0,1,complete 0-240m,0,
+2019-05-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2019-05-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2019-06-12,B,1,1,0,35,1,0,complete 0-240m,1,
+2019-06-12,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2019-06-12,C,1,1,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2019-07-11,B,1,1,1,125,1,0,complete 0-240m,1,
+2019-07-11,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2019-07-11,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2019-08-13,B,1,0,0,20,1,0,complete 0-240m,1,
+2019-08-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2019-08-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2019-09-12,B,1,0,0,20,1,0,complete 0-240m,1,
+2019-09-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2019-09-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2019-10-10,B,1,1,0,100,1,0,complete 0-240m,1,
+2019-10-10,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2019-10-10,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2019-11-13,B,1,0,0,20,1,0,complete 0-240m,1,
+2019-11-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2019-11-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2019-12-11,B,1,0,0,110,1,0,complete 0-240m,1,
+2019-12-11,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2019-12-11,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2020-01-14,B,1,0,0,,0,1,complete 0-240m,0,
+2020-01-14,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2020-01-14,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2020-02-13,B,1,1,0,30,1,0,complete 0-240m,1,
+2020-02-13,C,1,1,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2020-02-13,C,1,1,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2020-03-11,B,1,0,0,25,1,0,complete 0-240m,1,
+2020-03-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2020-03-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2020-04-10,B,1,0,0,25,1,0,complete 0-240m,1,
+2020-04-10,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2020-04-10,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2020-05-12,B,1,0,0,20,1,0,complete 0-240m,1,
+2020-05-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2020-05-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2020-06-10,B,1,0,0,85,1,0,complete 0-240m,1,
+2020-06-10,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2020-06-10,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2020-07-14,B,1,0,0,195,1,0,complete 0-240m,1,
+2020-07-14,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2020-07-14,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2020-08-12,B,1,0,0,20,1,0,complete 0-240m,1,
+2020-08-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2020-08-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2020-09-11,B,1,0,0,20,1,0,complete 0-240m,1,
+2020-09-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2020-09-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2020-10-13,B,1,0,0,,0,1,complete 0-240m,0,
+2020-10-13,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2020-10-13,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2020-11-12,B,1,0,0,25,1,0,complete 0-240m,1,
+2020-11-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2020-11-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2020-12-10,B,1,1,1,20,1,0,complete 0-240m,1,
+2020-12-10,C,1,1,1,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2020-12-10,C,1,1,1,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2021-01-13,B,1,0,0,20,1,0,complete 0-240m,1,
+2021-01-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2021-01-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2021-02-10,B,1,1,1,60,1,0,complete 0-240m,1,
+2021-02-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-02-10,C,1,1,1,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2021-03-10,B,1,1,1,,0,1,complete 0-240m,0,
+2021-03-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-03-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2021-04-13,B,1,0,0,180,1,0,complete 0-240m,1,
+2021-04-13,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-04-13,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2021-05-12,B,1,1,1,80,1,0,complete 0-240m,1,
+2021-05-12,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-05-12,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2021-06-10,B,1,1,0,100,1,0,complete 0-240m,1,
+2021-06-10,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-06-10,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2021-07-13,B,1,1,1,,0,1,complete 0-240m,0,
+2021-07-13,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-07-13,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2021-08-11,B,1,0,0,,0,1,complete 0-240m,0,
+2021-08-11,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-08-11,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2021-09-14,B,1,1,1,,0,1,complete 0-240m,0,
+2021-09-14,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-09-14,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2021-10-13,B,1,0,0,35,1,0,complete 0-240m,1,
+2021-10-13,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-10-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2021-11-10,B,1,1,0,,0,1,complete 0-240m,0,
+2021-11-10,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-11-10,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2021-12-10,B,1,1,0,80,1,0,complete 0-240m,1,
+2021-12-10,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2021-12-10,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-01-12,B,1,1,0,,0,1,complete 0-240m,0,
+2022-01-12,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-01-12,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-02-10,B,1,1,1,95,1,0,complete 0-240m,1,
+2022-02-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-02-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-03-10,B,1,1,0,110,1,0,complete 0-240m,1,
+2022-03-10,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-03-10,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-04-12,B,1,1,1,70,1,0,complete 0-240m,1,
+2022-04-12,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-04-12,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-05-11,B,1,1,1,80,1,0,complete 0-240m,1,
+2022-05-11,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-05-11,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-06-10,B,1,1,1,,0,1,complete 0-240m,0,
+2022-06-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-06-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-07-13,B,1,1,1,,0,1,complete 0-240m,0,
+2022-07-13,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-07-13,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-08-10,B,1,1,1,,0,1,complete 0-240m,0,
+2022-08-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-08-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-09-13,B,1,1,1,,0,1,complete 0-240m,0,
+2022-09-13,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-09-13,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-10-13,B,1,1,1,190,1,0,complete 0-240m,1,
+2022-10-13,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-10-13,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-11-10,B,1,1,1,,0,1,complete 0-240m,0,
+2022-11-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-11-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2022-12-13,B,1,1,1,,0,1,complete 0-240m,0,
+2022-12-13,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2022-12-13,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2023-01-12,B,1,0,0,55,1,0,complete 0-240m,1,
+2023-01-12,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2023-01-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2023-02-14,B,1,1,0,80,1,0,complete 0-240m,1,
+2023-02-14,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2023-02-14,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2023-03-14,B,1,1,0,,0,1,complete 0-240m,0,
+2023-03-14,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2023-03-14,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2023-04-12,B,1,1,0,160,1,0,complete 0-240m,1,
+2023-04-12,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2023-04-12,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2023-05-10,B,1,1,0,,0,1,complete 0-240m,0,
+2023-05-10,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2023-05-10,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2023-06-13,B,1,1,0,,0,1,complete 0-240m,0,
+2023-06-13,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2023-06-13,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2023-07-12,B,1,0,0,45,1,0,complete 0-240m,1,
+2023-07-12,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2023-07-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2023-08-10,B,1,0,0,20,1,0,complete 0-240m,1,
+2023-08-10,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2023-08-10,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2023-09-13,B,1,0,0,30,1,0,complete 0-240m,1,
+2023-09-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2023-09-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2023-10-12,B,1,0,0,25,1,0,complete 0-240m,1,
+2023-10-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2023-10-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2023-11-14,B,1,0,0,115,1,0,complete 0-240m,1,
+2023-11-14,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2023-11-14,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2023-12-12,B,1,0,0,20,1,0,complete 0-240m,1,
+2023-12-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2023-12-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2024-01-11,B,1,0,0,20,1,0,complete 0-240m,1,
+2024-01-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2024-01-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2024-02-13,B,1,1,1,,0,1,complete 0-240m,0,
+2024-02-13,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-02-13,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2024-03-12,B,1,1,0,155,1,0,complete 0-240m,1,
+2024-03-12,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-03-12,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2024-04-10,B,1,1,1,,0,1,complete 0-240m,0,
+2024-04-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-04-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2024-05-15,B,1,1,0,,0,1,complete 0-240m,0,
+2024-05-15,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-05-15,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2024-06-12,B,1,1,1,,0,1,complete 0-240m,0,
+2024-06-12,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-06-12,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2024-07-11,B,1,1,1,40,1,0,complete 0-240m,1,
+2024-07-11,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-07-11,C,1,1,1,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2024-08-14,B,1,1,0,,0,1,complete 0-240m,0,
+2024-08-14,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-08-14,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2024-09-11,B,1,1,1,35,1,0,complete 0-240m,1,
+2024-09-11,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-09-11,C,1,1,1,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2024-10-10,B,1,1,1,,0,1,complete 0-240m,0,
+2024-10-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-10-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2024-11-13,B,1,1,0,,0,1,complete 0-240m,0,
+2024-11-13,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-11-13,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2024-12-11,B,1,0,0,,0,1,complete 0-240m,0,
+2024-12-11,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2024-12-11,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2025-01-15,B,1,1,1,,0,1,complete 0-240m,0,
+2025-01-15,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-01-15,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2025-02-12,B,1,1,1,210,1,0,complete 0-240m,1,
+2025-02-12,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-02-12,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2025-03-12,B,1,1,1,60,1,0,complete 0-240m,1,
+2025-03-12,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-03-12,C,1,1,1,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2025-04-10,B,1,0,0,,0,1,complete 0-240m,0,
+2025-04-10,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-04-10,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2025-05-13,B,1,0,0,35,1,0,complete 0-240m,1,
+2025-05-13,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-05-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2025-06-11,B,1,1,1,,0,1,complete 0-240m,0,
+2025-06-11,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-06-11,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2025-07-15,B,1,1,0,25,1,0,complete 0-240m,1,
+2025-07-15,C,1,1,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2025-07-15,C,1,1,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2025-08-12,B,1,1,0,,0,1,complete 0-240m,0,
+2025-08-12,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-08-12,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2025-09-11,B,1,1,0,90,1,0,complete 0-240m,1,
+2025-09-11,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-09-11,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2025-10-24,B,1,1,1,70,1,0,complete 0-240m,1,
+2025-10-24,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-10-24,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2025-12-18,B,1,1,0,215,1,0,complete 0-240m,1,
+2025-12-18,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2025-12-18,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2026-01-13,B,1,0,0,30,1,0,complete 0-240m,1,
+2026-01-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2026-01-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2026-02-13,B,1,0,0,25,1,0,complete 0-240m,1,
+2026-02-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,30
+2026-02-13,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2026-03-11,B,1,0,0,40,1,0,complete 0-240m,1,
+2026-03-11,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2026-03-11,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2026-04-10,B,1,0,0,65,1,0,complete 0-240m,1,
+2026-04-10,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2026-04-10,C,1,0,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2026-05-12,B,1,0,0,45,1,0,complete 0-240m,1,
+2026-05-12,C,1,0,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2026-05-12,C,1,0,0,,0,1,complete; no prior 5m reversal and baseline retained,,60
+2026-06-10,B,1,1,1,,0,1,complete 0-240m,0,
+2026-06-10,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2026-06-10,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2026-07-14,B,1,1,1,,0,1,complete 0-240m,0,
+2026-07-14,C,1,1,1,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2026-07-14,C,1,1,1,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2026-08-12,B,1,1,0,,0,1,complete 0-240m,0,
+2026-08-12,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2026-08-12,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60
+2026-09-11,B,1,1,0,,0,1,complete 0-240m,0,
+2026-09-11,C,1,1,0,30,1,0,complete; no prior 5m reversal and baseline retained,,30
+2026-09-11,C,1,1,0,60,1,0,complete; no prior 5m reversal and baseline retained,,60

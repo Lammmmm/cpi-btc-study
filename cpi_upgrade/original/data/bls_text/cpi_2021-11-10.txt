@@ -1,0 +1,368 @@
+
+
+
+Transmission of material in this release is embargoed until                                        
+8:30 a.m. (ET) November 10, 2021              USDL-21-1973
+
+Technical information: (202) 691-7000    cpi_info@bls.gov    www.bls.gov/cpi
+Media Contact:         (202) 691-5902    PressOffice@bls.gov 
+
+CONSUMER PRICE INDEX  OCTOBER 2021
+
+The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.9 percent
+in October on a seasonally adjusted basis after rising 0.4 percent in September,
+the U.S. Bureau of Labor Statistics reported today. Over the last 12 months,
+the all items index increased 6.2 percent before seasonal adjustment.
+
+The monthly all items seasonally adjusted increase was broad-based, with
+increases in the indexes for energy, shelter, food, used cars and trucks, and
+new vehicles among the larger contributors. The energy index rose 4.8 percent
+over the month, as the gasoline index increased 6.1 percent and the other major
+energy component indexes also rose. The food index increased 0.9 percent as the
+index for food at home rose 1.0 percent. 
+
+The index for all items less food and energy rose 0.6 percent in October after
+increasing 0.2 percent in September. Most component indexes increased over the
+month. Along with shelter, used cars and trucks, and new vehicles, the indexes
+for medical care, for household furnishing and operations, and for recreation
+all increased in October. The indexes for airline fares and for alcoholic
+beverages were among the few to decline over the month.  
+
+The all items index rose 6.2 percent for the 12 months ending October, the large
+st 12-month increase since the period ending November 1990. The index for all
+items less food and energy rose 4.6 percent over the last 12 months, the largest
+12-month increase since the period ending August 1991. The energy index rose
+30.0 percent over the last 12 months, and the food index increased 5.3 percent.
+
+
+Table A. Percent changes in CPI for All Urban Consumers (CPI-U): U.S. city average
+
+                                  Seasonally adjusted changes from
+                                          preceding month
+                                                                          Un-
+                                                                       adjusted
+                                                                        12-mos.
+                              Apr.  May   June  July  Aug.  Sep.  Oct.   ended
+                              2021  2021  2021  2021  2021  2021  2021   Oct.
+                                                                         2021
+
+ All items..................    .8    .6    .9    .5    .3    .4    .9      6.2
+  Food......................    .4    .4    .8    .7    .4    .9    .9      5.3
+   Food at home.............    .4    .4    .8    .7    .4   1.2   1.0      5.4
+   Food away from home (1)..    .3    .6    .7    .8    .4    .5    .8      5.3
+  Energy....................   -.1    .0   1.5   1.6   2.0   1.3   4.8     30.0
+   Energy commodities.......  -1.4   -.6   2.6   2.3   2.7   1.3   6.2     49.5
+    Gasoline (all types)....  -1.4   -.7   2.5   2.4   2.8   1.2   6.1     49.6
+    Fuel oil (1)............  -3.2   2.1   2.9    .6  -2.1   3.9  12.3     59.1
+   Energy services..........   1.5    .7    .2    .8   1.1   1.2   3.0     11.2
+    Electricity.............   1.2    .3   -.3    .4   1.0    .8   1.8      6.5
+    Utility (piped) gas
+       service..............   2.4   1.7   1.7   2.2   1.6   2.7   6.6     28.1
+  All items less food and
+     energy.................    .9    .7    .9    .3    .1    .2    .6      4.6
+   Commodities less food and
+      energy commodities....   2.0   1.8   2.2    .5    .3    .2   1.0      8.4
+    New vehicles............    .5   1.6   2.0   1.7   1.2   1.3   1.4      9.8
+    Used cars and trucks....  10.0   7.3  10.5    .2  -1.5   -.7   2.5     26.4
+    Apparel.................    .3   1.2    .7    .0    .4  -1.1    .0      4.3
+    Medical care
+       commodities (1)......    .6    .0   -.4    .2   -.2    .3    .6      -.4
+   Services less energy
+      services..............    .5    .4    .4    .3    .0    .2    .4      3.2
+    Shelter.................    .4    .3    .5    .4    .2    .4    .5      3.5
+    Transportation services    2.9   1.5   1.5  -1.1  -2.3   -.5    .4      4.5
+    Medical care services...    .0   -.1    .0    .3    .3   -.1    .5      1.7
+
+   1 Not seasonally adjusted.
+
+Food
+
+The food index increased 0.9 percent in October, the same increase as in September.
+The food at home index increased 1.0 percent over the month as all six major grocery
+store food group indexes continued to rise. The index for meats, poultry, fish, and
+eggs continued to rise sharply, increasing 1.7 percent following a 2.2-percent
+increase in September. The index for beef rose 3.1 percent over the month. 
+
+The index for other food at home rose 1.2 percent over the month, its largest monthly
+increase since April 2020, near the onset of the pandemic. The index for cereals and
+bakery products rose 1.0 percent in October following a 1.1-percent increase the prior
+month. The index for nonalcoholic beverages rose 0.8 percent in October, the index for
+dairy and related products rose 0.2 percent, and the index for fruits and vegetables
+advanced 0.1 percent.  
+
+The food away from home index rose 0.8 percent in October after increasing 0.5 percent
+in September. The index for full service meals rose 0.9 percent and the index for
+limited service meals increased 0.8 percent over the month.  
+
+The food at home index rose 5.4 percent over the past 12 months as all of the six
+major grocery store food group indexes increased over the period. The index for meats,
+poultry, fish, and eggs increased 11.9 percent, with the index for beef rising
+20.1 percent and the index for pork rising 14.1 percent, its largest 12-month
+increase since the period ending December 1990. The other major grocery store food
+group indexes also increased over the last 12 months with increases ranging from
+1.8 percent (dairy and related products) to 4.5 percent (nonalcoholic beverages). 
+
+The index for food away from home rose 5.3 percent over the last year. The index for
+limited service meals rose 7.1 percent over the last 12 months, and the index for full
+service meals rose 5.9 percent, both the largest 12-month increases in the history of
+the respective series. The index for food at employee sites and schools declined
+sharply over the past year, falling 45.4 percent.
+
+Energy
+
+The energy index rose 4.8 percent in October after rising 1.3 percent in September.
+The gasoline index rose 6.1 percent in October, its fifth consecutive monthly increase.
+(Before seasonal adjustment, gasoline prices rose 3.7 percent in October.) The index
+for natural gas rose 6.6 percent over the month, its largest monthly increase since
+March 2014. The electricity index increased 1.8 percent in October, its largest 1-month
+increase since May 2014, while the fuel oil index also rose sharply, increasing
+12.3 percent.
+
+The energy index rose 30.0 percent over the past 12 months, its largest 12-month
+increase since the period ending September 2005. All the major energy component
+indexes increased sharply over the last 12 months. The gasoline index rose
+49.6 percent over the last year, and is now at its highest level since September 2014.
+The fuel oil index increased sharply over the year, rising 59.1 percent. The index for
+natural gas rose 28.1 percent over the last 12 months, and the electricity index rose
+6.5 percent.
+
+All items less food and energy
+
+The index for all items less food and energy rose 0.6 percent in October as most major
+component indexes increased. The shelter index increased 0.5 percent over the month,
+as the indexes for rent and owners equivalent rent both rose 0.4 percent and the
+index for lodging away from home increased 1.4 percent. Major vehicle indexes also
+rose in October. The index for used cars and trucks rose 2.5 percent after declining
+in August and September. The index for new vehicles rose 1.4 percent in October, its
+seventh consecutive monthly increase.  
+
+The medical care index increased in October, rising 0.5 percent, its largest monthly
+increase since May 2020. The index for hospital services rose 0.5 percent, and the
+index for prescription drugs advanced 0.6 percent; the index for physicians services
+was unchanged. The household furnishings and operations index rose 0.8 percent, and the
+recreation index increased 0.7 percent. Also rising in October were the indexes for
+personal care (0.6 percent), tobacco (1.9 percent), education (0.2 percent), and
+communication (0.1 percent).
+
+The motor vehicle insurance index and the apparel index were both unchanged in October.
+The index for airline fares was one of the few to decline, falling 0.7 percent; the
+index for alcoholic beverages decreased 0.2 percent.  
+
+The index for all items less food and energy rose 4.6 percent over the past 12 months.
+Component indexes rising more include used cars and trucks (26.4 percent) and new
+vehicles (9.8 percent, the largest 12-month increase since the period ending May 1975).
+Indexes rising less than 4.6 percent include shelter (3.5 percent) and medical care
+(1.3 percent). Few major component indexes declined over the past year; one exception
+is airline fares (-4.6 percent).  
+
+Not seasonally adjusted CPI measures
+
+The Consumer Price Index for All Urban Consumers (CPI-U) increased 6.2 percent over
+the last 12 months to an index level of 276.589 (1982-84=100). For the month, the
+index increased 0.8 percent prior to seasonal adjustment.  
+
+The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) increased
+6.9 percent over the last 12 months to an index level of 271.552 (1982-84=100). For
+the month, the index rose 0.9 percent prior to seasonal adjustment.  
+
+The Chained Consumer Price Index for All Urban Consumers (C-CPI-U) increased
+6.1 percent over the last 12 months. For the month, the index increased 0.8 percent on
+a not seasonally adjusted basis. Please note that the indexes for the past 10 to
+12 months are subject to revision. 
+_______________
+The Consumer Price Index for November 2021 is scheduled to be released on Friday,
+December 10, 2021 at 8:30 a.m. (ET).
+
+
+--------------------------------------------------------------------------------------------------
+ Coronavirus (COVID-19) Pandemic Impact on October 2021 Consumer Price Index Data
+
+ Data collection by personal visit for the Consumer Price Index (CPI) program has been suspended
+ almost entirely since March 16, 2020. When possible, data normally collected by personal visit
+ were collected either online or by phone. Additionally, data collection in October was affected by
+ the temporary closing or limited operations of certain types of establishments. These factors
+ resulted in an increase in the number of prices considered temporarily unavailable and imputed.
+ While the CPI program attempted to collect as much data as possible, many indexes are based on
+ smaller amounts of collected prices than usual, and a small number of indexes that are normally
+ published were not published this month. Additional information is available at
+ www.bls.gov/covid19/effects-of-covid-19-pandemic-on-consumer-price-index.htm.
+ 
+----------------------------------------------------------------------------------------------------
+
+
+Technical Note
+
+Brief Explanation of the CPI
+
+The Consumer Price Index (CPI) measures the change in prices paid by consumers
+for goods and services. The CPI reflects spending patterns for each of two
+population groups: all urban consumers and urban wage earners and clerical
+workers. The all urban consumer group represents about 93 percent of the total
+U.S. population. It is based on the expenditures of almost all residents of urban
+or metropolitan areas, including professionals, the self-employed, the poor,
+the unemployed, and retired people, as well as urban wage earners and clerical
+workers. Not included in the CPI are the spending patterns of people living in
+rural nonmetropolitan areas, farming families, people in the Armed Forces, and
+those in institutions, such as prisons and mental hospitals. Consumer inflation
+for all urban consumers is measured by two indexes, namely, the Consumer Price
+Index for All Urban Consumers (CPI-U) and the Chained Consumer Price Index for
+All Urban Consumers (C-CPI-U).
+
+The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W)
+is based on the expenditures of households included in the CPI-U definition
+that meet two requirements: more than one-half of the household's income must
+come from clerical or wage occupations, and at least one of the household's
+earners must have been employed for at least 37 weeks during the previous
+12 months. The CPI-W population represents about 29 percent of the total U.S.
+population and is a subset of the CPI-U population.
+
+The CPIs are based on prices of food, clothing, shelter, fuels, transportation,
+doctors and dentists services, drugs, and other goods and services that people
+buy for day-to-day living. Prices are collected each month in 75 urban areas
+across the country from about 6,000 housing units and approximately 22,000 retail
+establishments (department stores, supermarkets, hospitals, filling stations, and
+other types of stores and service establishments). All taxes directly associated
+with the purchase and use of items are included in the index. Prices of fuels and
+a few other items are obtained every month in all 75 locations. Prices of most
+other commodities and services are collected every month in the three largest
+geographic areas and every other month in other areas. Prices of most goods and
+services are obtained by personal visits or telephone calls by the Bureaus
+trained representatives.
+
+In calculating the index, price changes for the various items in each location
+are aggregated using weights, which represent their importance in the spending
+of the appropriate population group. Local data are then combined to obtain a
+U.S. city average. For the CPI-U and CPI-W, separate indexes are also published
+by size of city, by region of the country, for cross-classifications of regions
+and population-size classes, and for 23 selected local areas. Area indexes do not
+measure differences in the level of prices among cities; they only measure the
+average change in prices for each area since the base period. For the C-CPI-U,
+data are issued only at the national level. The CPI-U and CPI-W are considered
+final when released, but the C-CPI-U is issued in preliminary form and subject
+to three subsequent quarterly revisions.
+
+The index measures price change from a designed reference date. For most of the
+CPI-U and the CPI-W, the reference base is 1982-84 equals 100. The reference
+base for the C-CPI-U is December 1999 equals 100.  An increase of 7 percent from
+the reference base, for example, is shown as 107.000. Alternatively, that
+relationship can also be expressed as the price of a base period market basket
+of goods and services rising from $100 to $107. 
+
+Sampling Error in the CPI
+
+The CPI is a statistical estimate that is subject to sampling error because it
+is based upon a sample of retail prices and not the complete universe of all
+prices. BLS calculates and publishes estimates of the 1-month, 2-month, 6-month,
+and 12-month percent change standard errors annually for the CPI-U. These standard
+error estimates can be used to construct confidence intervals for hypothesis
+testing. For example, the estimated standard error of the 1-month percent change
+is 0.03 percent for the U.S. all items CPI. This means that if we repeatedly sample
+from the universe of all retail prices using the same methodology, and estimate a
+percentage change for each sample, then 95 percent of these estimates will be within
+0.06 percent of the 1-month percentage change based on all retail prices. For
+example, for a 1-month change of 0.2 percent in the all items CPI-U, we are
+95 percent confident that the actual percent change based on all retail prices would
+fall between 0.14 and 0.26 percent. For the latest data, including information on
+how to use the estimates of standard error, see
+https://www.bls.gov/cpi/tables/variance-estimates/home.htm.
+
+Calculating Index Changes
+
+Movements of the indexes from 1 month to another are usually expressed as percent
+changes rather than changes in index points, because index point changes are
+affected by the level of the index in relation to its base period, while percent
+changes are not. The following table shows an example of using index values to
+calculate percent changes:
+
+                               Item A                  Item B                      Item C
+Year I                         112.500                 225.000                     110.000
+Year II                        121.500                 243.000                     128.000
+Change in index points         9.000                   18.000                      18.000
+Percent change                 9.0/112.500 x 100 = 8.0  18.0/225.000 x 100 = 8.0   18.0/110.000 x 100 = 16.4
+
+Use of Seasonally Adjusted and Unadjusted Data
+
+The Consumer Price Index (CPI) produces both unadjusted and seasonally adjusted data.
+Seasonally adjusted data are computed using seasonal factors derived by the X-13ARIMA-
+SEATS seasonal adjustment method. These factors are updated each February, and the new
+factors are used to revise the previous 5 years of seasonally adjusted data. The
+factors are available at
+www.bls.gov/cpi/tables/seasonal-adjustment/seasonal-factors-2021.xlsx. For more
+information on data revision scheduling, please see the Factsheet on Seasonal
+Adjustment at www.bls.gov/cpi/seasonal-adjustment/questions-and-answers.htm and
+the Timeline of Seasonal Adjustment Methodological Changes at
+www.bls.gov/cpi/seasonal-adjustment/timeline-seasonal-adjustment-methodology-changes.htm.
+
+For analyzing short-term price trends in the economy, seasonally adjusted changes are
+usually preferred since they eliminate the effect of changes that normally occur at
+the same time and in about the same magnitude every yearsuch as price movements
+resulting from weather events, production cycles, model changeovers, holidays, and
+sales. This allows data users to focus on changes that are not typical for the time
+of year. The unadjusted data are of primary interest to consumers concerned about
+the prices they actually pay. Unadjusted data are also used extensively for escalation
+purposes. Many collective bargaining contract agreements and pension plans, for example,
+tie compensation changes to the Consumer Price Index before adjustment for seasonal
+variation. BLS advises against the use of seasonally adjusted data in escalation
+agreements because seasonally adjusted series are revised annually.
+
+Intervention Analysis
+
+The Bureau of Labor Statistics uses intervention analysis seasonal adjustment for some
+CPI series. Sometimes extreme values or sharp movements can distort the underlying
+seasonal pattern of price change. Intervention analysis seasonal adjustment is a process
+by which the distortions caused by such unusual events are estimated and removed from
+the data prior to calculation of seasonal factors. The resulting seasonal factors, which
+more accurately represent the seasonal pattern, are then applied to the unadjusted data.
+
+For example, this procedure was used for the motor fuel series to offset the effects of
+the 2009 return to normal pricing after the worldwide economic downturn in 2008.
+Retaining this outlier data during seasonal factor calculation would distort the
+computation of the seasonal portion of the time series data for motor fuel, so it was
+estimated and removed from the data prior to seasonal adjustment. Following that,
+seasonal factors were calculated based on this prior adjusted data. These seasonal
+factors represent a clearer picture of the seasonal pattern in the data. The last step
+is for motor fuel seasonal factors to be applied to the unadjusted data.
+
+For the seasonal factors introduced for January 2021, BLS adjusted 72 series using
+intervention analysis seasonal adjustment, including selected food and beverage items,
+motor fuels, electricity, and vehicles.
+
+Revision of Seasonally Adjusted Indexes
+
+Seasonally adjusted data, including the U.S. city average all items index levels, are
+subject to revision for up to 5 years after their original release. Every year, economists
+in the CPI calculate new seasonal factors for seasonally adjusted series and apply them to
+the last 5 years of data. Seasonally adjusted indexes beyond the last 5 years of data are
+considered to be final and not subject to revision. For January 2021, revised seasonal
+factors and seasonally adjusted indexes for 2016 to 2020 were calculated and published.
+For series which are directly adjusted using the Census X-13ARIMA-SEATS seasonal adjustment
+software, the seasonal factors for 2020 will be applied to data for 2021 to produce the
+seasonally adjusted 2021 indexes. Series which are indirectly seasonally adjusted by
+summing seasonally adjusted component series have seasonal factors which are derived and
+are therefore not available in advance.
+
+Determining Seasonal Status
+
+Each year the seasonal status of every series is reevaluated based upon certain statistical
+criteria. Using these criteria, BLS economists determine whether a series should change its
+status from "not seasonally adjusted" to "seasonally adjusted", or vice versa. If any of
+the 81 components of the U.S. city average all items index change their seasonal adjustment
+status from seasonally adjusted to not seasonally adjusted, not seasonally adjusted data
+will be used in the aggregation of the dependent series for the last 5 years, but the
+seasonally adjusted indexes before that period will not be changed. Thirty-four of the
+81 components of the U.S. city average all items index are not seasonally adjusted for 2021.
+
+Contact Information
+
+For additional information about the CPI visit www.bls.gov/cpi or contact the CPI
+Information and Analysis Section at 202-691-7000 or cpi_info@bls.gov.
+
+For additional information on seasonal adjustment in the CPI visit
+www.bls.gov/cpi/seasonal-adjustment/home.htm or contact the CPI seasonal adjustment section
+at 202-691-6968 or cpiseas@bls.gov.
+
+Information from this release will be made available to sensory impaired individuals upon
+request. Voice phone: 202-691-5200; Federal Relay Service: 1-800-877-8339. 
+
+
+

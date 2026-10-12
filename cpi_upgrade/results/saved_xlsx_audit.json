@@ -1,0 +1,50 @@
+{
+  "formula_cells": 108,
+  "error_cells": [],
+  "sheet_row_counts": [
+    [
+      "xl/worksheets/sheet1.xml",
+      45
+    ],
+    [
+      "xl/worksheets/sheet2.xml",
+      120
+    ],
+    [
+      "xl/worksheets/sheet3.xml",
+      120
+    ],
+    [
+      "xl/worksheets/sheet4.xml",
+      120
+    ],
+    [
+      "xl/worksheets/sheet5.xml",
+      110
+    ],
+    [
+      "xl/worksheets/sheet6.xml",
+      168
+    ],
+    [
+      "xl/worksheets/sheet7.xml",
+      4416
+    ],
+    [
+      "xl/worksheets/sheet8.xml",
+      180
+    ],
+    [
+      "xl/worksheets/sheet9.xml",
+      2358
+    ],
+    [
+      "xl/worksheets/sheet10.xml",
+      2549
+    ],
+    [
+      "xl/worksheets/sheet11.xml",
+      98
+    ]
+  ]
+}

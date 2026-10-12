@@ -1,0 +1,201 @@
+{
+  "network_blocked": true,
+  "clean_archive_extract": true,
+  "raw_default_rebuild_passed": true,
+  "updated_upgrade_rebuild_passed": true,
+  "all_current_statistical_tables": [
+    {
+      "table": "A_monthly_confirmation.csv",
+      "rows": 48,
+      "columns": 50,
+      "matches": true
+    },
+    {
+      "table": "cost_latency_sensitivity.csv",
+      "rows": 720,
+      "columns": 45,
+      "matches": true
+    },
+    {
+      "table": "decision_table.csv",
+      "rows": 12,
+      "columns": 23,
+      "matches": true
+    },
+    {
+      "table": "event_field_dictionary.csv",
+      "rows": 429,
+      "columns": 5,
+      "matches": true
+    },
+    {
+      "table": "events_four.csv",
+      "rows": 92,
+      "columns": 429,
+      "matches": true
+    },
+    {
+      "table": "extreme_research.csv",
+      "rows": 480,
+      "columns": 554,
+      "matches": true
+    },
+    {
+      "table": "firstwave_threshold_sensitivity.csv",
+      "rows": 60,
+      "columns": 43,
+      "matches": true
+    },
+    {
+      "table": "group_memberships.csv",
+      "rows": 2543,
+      "columns": 4,
+      "matches": true
+    },
+    {
+      "table": "group_windows.csv",
+      "rows": 2352,
+      "columns": 123,
+      "matches": true
+    },
+    {
+      "table": "growth_environment_results.csv",
+      "rows": 60,
+      "columns": 53,
+      "matches": true
+    },
+    {
+      "table": "hypothesis_tests_primary.csv",
+      "rows": 18,
+      "columns": 15,
+      "matches": true
+    },
+    {
+      "table": "independent_raw_return_audit.csv",
+      "rows": 1,
+      "columns": 2,
+      "matches": true
+    },
+    {
+      "table": "indicator_direction_comparison.csv",
+      "rows": 4,
+      "columns": 10,
+      "matches": true
+    },
+    {
+      "table": "matrix_exploratory_tests.csv",
+      "rows": 81,
+      "columns": 11,
+      "matches": true
+    },
+    {
+      "table": "minute_audit.csv",
+      "rows": 92,
+      "columns": 8,
+      "matches": true
+    },
+    {
+      "table": "missing_data.csv",
+      "rows": 61,
+      "columns": 4,
+      "matches": true
+    },
+    {
+      "table": "original_recompute_audit.csv",
+      "rows": 21,
+      "columns": 3,
+      "matches": true
+    },
+    {
+      "table": "original_source_exclusions.csv",
+      "rows": 28,
+      "columns": 5,
+      "matches": true
+    },
+    {
+      "table": "original_source_manifest.csv",
+      "rows": 1119,
+      "columns": 7,
+      "matches": true
+    },
+    {
+      "table": "outlier_sensitivity.csv",
+      "rows": 56,
+      "columns": 16,
+      "matches": true
+    },
+    {
+      "table": "paths.csv",
+      "rows": 1380,
+      "columns": 44,
+      "matches": true
+    },
+    {
+      "table": "prediction_events.csv",
+      "rows": 882,
+      "columns": 8,
+      "matches": true
+    },
+    {
+      "table": "prediction_incremental_tests.csv",
+      "rows": 8,
+      "columns": 10,
+      "matches": true
+    },
+    {
+      "table": "prediction_metrics.csv",
+      "rows": 84,
+      "columns": 15,
+      "matches": true
+    },
+    {
+      "table": "provided_input_manifest.csv",
+      "rows": 10,
+      "columns": 6,
+      "matches": true
+    },
+    {
+      "table": "provided_results_reconciliation.csv",
+      "rows": 74,
+      "columns": 5,
+      "matches": true
+    },
+    {
+      "table": "raw_sha256_audit.csv",
+      "rows": 184,
+      "columns": 4,
+      "matches": true
+    },
+    {
+      "table": "robustness.csv",
+      "rows": 1620,
+      "columns": 46,
+      "matches": true
+    },
+    {
+      "table": "strategy_groups.csv",
+      "rows": 4410,
+      "columns": 54,
+      "matches": true
+    },
+    {
+      "table": "strategy_trigger_audit.csv",
+      "rows": 276,
+      "columns": 11,
+      "matches": true
+    },
+    {
+      "table": "trades_all.csv",
+      "rows": 5322,
+      "columns": 53,
+      "matches": true
+    },
+    {
+      "table": "year_block_and_historical_fees.csv",
+      "rows": 58,
+      "columns": 11,
+      "matches": true
+    }
+  ],
+  "report_and_pdf_byte_identical": true
+}

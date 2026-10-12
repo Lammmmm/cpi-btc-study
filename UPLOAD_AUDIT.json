@@ -1,0 +1,22 @@
+{
+  "import_status": "complete",
+  "source_release_tag": null,
+  "archive_bytes": 41961194,
+  "archive_git_blob_sha1": "9504ecba47e6a4ffa6f83e9e5c694c71a3173cfe",
+  "archive_sha256": "b27886dfef697b9aa3bd27ae94e64ce072415aabf658dfc21cac1d57cf63dd9f",
+  "archive_crc_verified": true,
+  "deliverables": 10,
+  "event_rows": 92,
+  "trade_scenarios": 5322,
+  "workbook_sheets": 11,
+  "original_binance_daily_zips": 184,
+  "source_files": 13,
+  "github_run_id": "38212045950",
+  "backtest_rerun_in_this_import": false,
+  "note": "This verifies upload integrity and row counts; it does not independently rerun the 92-event backtest.",
+  "transfer_method": "one-run RSA-OAEP encrypted Library materialization",
+  "individual_deliveries_checked": 10,
+  "current_individual_exports_preserved": true,
+  "download_urls_published": false,
+  "event_fields": 429
+}

@@ -1,0 +1,4 @@
+source_name,source_url,original_http_sha256,http_body_gzip_encoded,required_facts_verified,status
+zero_fee_start,https://www.binance.com/en/support/announcement/detail/10435147c55d4a40b64fcbf43cb46329,d731590c41b7a58c11ec66eb09fe13398b92f74cb626bba05814fcc2ebe6a55c,True,"{""2022-07-08"": true, ""14:00"": true, ""BTC/USDT"": true}",verified_primary_notice_factual_snapshot
+zero_fee_end,https://www.binance.com/en/support/announcement/detail/be13a645cca643d28eab5b9b34f2dc36,d4b0140e1476c01e4badb1587eb862af7b5d26a449227de14fbe0896b4d7caad,True,"{""2023-03-22"": true, ""BTC/USDT"": true, ""Standard"": true}",verified_primary_notice_factual_snapshot
+spot_fee_faq,https://www.binance.com/en/support/faq/detail/e85d6e703b874674840122196b89780a,e4057f1ea26923a2681c019d3130fef1f33f2454ba93acdddc13f5653c418f1c,True,"{""0.1%"": true}",verified_primary_notice_factual_snapshot

@@ -1,0 +1,267 @@
+field,dtype,unit_or_interpretation,nonmissing_events,missing_events
+date,object,,92,0
+reference_label,object,,92,0
+url,object,,92,0
+t0_utc,object,,92,0
+year,int64,,92,0
+release_et,object,,92,0
+cpi_status,object,,92,0
+embargo_0830_verified,bool,"0/1 flag where numeric; blank is unknown, not 0",92,0
+headline_mom_actual,float64,percentage rate where CPI/rate; see README,91,1
+headline_yoy_actual,float64,percentage rate where CPI/rate; see README,92,0
+core_mom_actual,float64,percentage rate where CPI/rate; see README,91,1
+core_yoy_actual,float64,percentage rate where CPI/rate; see README,92,0
+energy_mom_actual,float64,percentage rate where CPI/rate; see README,91,1
+energy_yoy_actual,float64,percentage rate where CPI/rate; see README,92,0
+shelter_mom_actual,float64,percentage rate where CPI/rate; see README,91,1
+shelter_yoy_actual,float64,percentage rate where CPI/rate; see README,92,0
+services_ex_energy_mom_actual,float64,percentage rate where CPI/rate; see README,91,1
+services_ex_energy_yoy_actual,float64,percentage rate where CPI/rate; see README,92,0
+headline_yoy_forecast,float64,percentage rate where CPI/rate; see README,92,0
+headline_yoy_calendar_actual,float64,percentage rate where CPI/rate; see README,92,0
+headline_yoy_occurrence_id,int64,,92,0
+headline_yoy_forecast_source,object,percentage rate where CPI/rate; see README,92,0
+headline_yoy_calendar_matches_bls,bool,"0/1 flag where numeric; blank is unknown, not 0",92,0
+headline_yoy_surprise_pp,float64,percentage points (0.1=0.1pp),92,0
+headline_yoy_class,object,,92,0
+headline_yoy_size,object,,92,0
+headline_mom_forecast,float64,percentage rate where CPI/rate; see README,91,1
+headline_mom_calendar_actual,float64,percentage rate where CPI/rate; see README,91,1
+headline_mom_occurrence_id,float64,,91,1
+headline_mom_forecast_source,object,percentage rate where CPI/rate; see README,91,1
+headline_mom_calendar_matches_bls,bool,"0/1 flag where numeric; blank is unknown, not 0",92,0
+headline_mom_surprise_pp,float64,percentage points (0.1=0.1pp),91,1
+headline_mom_class,object,,92,0
+headline_mom_size,object,,92,0
+core_yoy_forecast,float64,percentage rate where CPI/rate; see README,92,0
+core_yoy_calendar_actual,float64,percentage rate where CPI/rate; see README,92,0
+core_yoy_occurrence_id,int64,,92,0
+core_yoy_forecast_source,object,percentage rate where CPI/rate; see README,92,0
+core_yoy_calendar_matches_bls,bool,"0/1 flag where numeric; blank is unknown, not 0",92,0
+core_yoy_surprise_pp,float64,percentage points (0.1=0.1pp),92,0
+core_yoy_class,object,,92,0
+core_yoy_size,object,,92,0
+core_mom_forecast,float64,percentage rate where CPI/rate; see README,91,1
+core_mom_calendar_actual,float64,percentage rate where CPI/rate; see README,91,1
+core_mom_occurrence_id,float64,,91,1
+core_mom_forecast_source,object,percentage rate where CPI/rate; see README,91,1
+core_mom_calendar_matches_bls,bool,"0/1 flag where numeric; blank is unknown, not 0",92,0
+core_mom_surprise_pp,float64,percentage points (0.1=0.1pp),91,1
+core_mom_class,object,,92,0
+core_mom_size,object,,92,0
+combo_yoy,object,,92,0
+combo_mom,object,,92,0
+scheduled_jobless_claims,bool,,92,0
+employment_bad,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+consumption_bad,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+ism_bad_release_snapshot,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+ism_bad_strict,float64,"0/1 flag where numeric; blank is unknown, not 0",0,92
+UNRATE_last_observation,object,,92,0
+UNRATE_latest,float64,percentage rate where CPI/rate; see README,92,0
+PAYEMS_last_observation,object,,92,0
+PAYEMS_latest,int64,,92,0
+PCEC96_last_observation,object,,91,1
+PCEC96_latest,float64,,91,1
+DFEDTARU_last_observation,object,,92,0
+DFEDTARU_latest,float64,percentage rate where CPI/rate; see README,92,0
+unrate_3m_reference_month,object,,92,0
+unrate_3m_change_pp,float64,percentage points (0.1=0.1pp),91,1
+unrate_bad,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+payroll_bad,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+payroll_3m_average_thousands,float64,,92,0
+payroll_6m_average_thousands,float64,,92,0
+payroll_last3_changes_thousands,object,,92,0
+real_pce_3m_return,float64,decimal fractional return (0.01=1%),91,1
+ism_latest_release,object,,92,0
+ism_latest,float64,,92,0
+ism_3m_average,float64,,92,0
+ism_previous3m_average,float64,,92,0
+ism_pit_status,object,,92,0
+growth_strict,object,,92,0
+growth_snapshot,object,,92,0
+last_fomc_date,object,,92,0
+last_fomc_actual_upper,float64,percentage rate where CPI/rate; see README,92,0
+last_fomc_forecast_upper,float64,percentage rate where CPI/rate; see README,90,2
+policy_stage,object,,92,0
+fomc_matches_vintage,bool,"0/1 flag where numeric; blank is unknown, not 0",92,0
+future_fomc_market_expectation,object,,92,0
+pandemic_crisis,int64,,92,0
+high_inflation,int64,,92,0
+rapid_hiking,int64,,92,0
+status_30m,object,,92,0
+p0_30m,float64,USDT per BTC,92,0
+confirm_price_30m,float64,USDT per BTC,92,0
+first_return_30m,float64,"15m first-wave return; suffix is target horizon, not first-wave length; decimal (0.01=1%)",92,0
+direction_30m,int64,,92,0
+fade50_at_confirm_30m,int64,,92,0
+first_extreme_30m,float64,USDT per BTC,92,0
+first_continuous_5m_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+sigma_c_30m,float64,decimal fractional return (0.01=1%),92,0
+z_30m,float64,,92,0
+end_price_30m,float64,USDT per BTC,92,0
+release_return_30m,float64,decimal fractional return (0.01=1%),92,0
+entry_price_30m,float64,USDT per BTC,92,0
+entry_utc_30m,object,,92,0
+exit_price_30m,float64,USDT per BTC,92,0
+gross_return_30m,float64,decimal fractional return (0.01=1%),92,0
+net_return_30m,float64,decimal fractional return (0.01=1%),92,0
+mfe_30m,float64,decimal fractional return (0.01=1%),92,0
+mae_30m,float64,decimal fractional return (0.01=1%),92,0
+keep_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+new_extreme_touch_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade50_touch_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade100_touch_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade50_end_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade100_end_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+reverse5_touch_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+reverse5_end_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+first_reverse5_min_30m,float64,"minutes since CPI; blank also means no trigger, check status and reverse5_touch flags",21,71
+gross_win_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+net_win_30m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+baseline_exit_price_30m,float64,USDT per BTC,92,0
+baseline_exit_utc_30m,object,,92,0
+baseline_exit_mfe_30m,float64,decimal fractional return (0.01=1%),92,0
+baseline_exit_mae_30m,float64,decimal fractional return (0.01=1%),92,0
+baseline_exit_min_30m,float64,"minutes since CPI; blank also means no trigger, check status and reverse5_touch flags",18,74
+baseline_exit_gross_30m,float64,,92,0
+baseline_exit_net_30m,float64,,92,0
+status_60m,object,,92,0
+p0_60m,float64,USDT per BTC,92,0
+confirm_price_60m,float64,USDT per BTC,92,0
+first_return_60m,float64,"15m first-wave return; suffix is target horizon, not first-wave length; decimal (0.01=1%)",92,0
+direction_60m,int64,,92,0
+fade50_at_confirm_60m,int64,,92,0
+first_extreme_60m,float64,USDT per BTC,92,0
+first_continuous_5m_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+sigma_c_60m,float64,decimal fractional return (0.01=1%),92,0
+z_60m,float64,,92,0
+end_price_60m,float64,USDT per BTC,92,0
+release_return_60m,float64,decimal fractional return (0.01=1%),92,0
+entry_price_60m,float64,USDT per BTC,92,0
+entry_utc_60m,object,,92,0
+exit_price_60m,float64,USDT per BTC,92,0
+gross_return_60m,float64,decimal fractional return (0.01=1%),92,0
+net_return_60m,float64,decimal fractional return (0.01=1%),92,0
+mfe_60m,float64,decimal fractional return (0.01=1%),92,0
+mae_60m,float64,decimal fractional return (0.01=1%),92,0
+keep_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+new_extreme_touch_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade50_touch_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade100_touch_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade50_end_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade100_end_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+reverse5_touch_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+reverse5_end_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+first_reverse5_min_60m,float64,"minutes since CPI; blank also means no trigger, check status and reverse5_touch flags",33,59
+gross_win_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+net_win_60m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+baseline_exit_price_60m,float64,USDT per BTC,92,0
+baseline_exit_utc_60m,object,,92,0
+baseline_exit_mfe_60m,float64,decimal fractional return (0.01=1%),92,0
+baseline_exit_mae_60m,float64,decimal fractional return (0.01=1%),92,0
+baseline_exit_min_60m,float64,"minutes since CPI; blank also means no trigger, check status and reverse5_touch flags",31,61
+baseline_exit_gross_60m,float64,,92,0
+baseline_exit_net_60m,float64,,92,0
+status_240m,object,,92,0
+p0_240m,float64,USDT per BTC,92,0
+confirm_price_240m,float64,USDT per BTC,92,0
+first_return_240m,float64,"15m first-wave return; suffix is target horizon, not first-wave length; decimal (0.01=1%)",92,0
+direction_240m,int64,,92,0
+fade50_at_confirm_240m,int64,,92,0
+first_extreme_240m,float64,USDT per BTC,92,0
+first_continuous_5m_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+sigma_c_240m,float64,decimal fractional return (0.01=1%),92,0
+z_240m,float64,,92,0
+end_price_240m,float64,USDT per BTC,92,0
+release_return_240m,float64,decimal fractional return (0.01=1%),92,0
+entry_price_240m,float64,USDT per BTC,92,0
+entry_utc_240m,object,,92,0
+exit_price_240m,float64,USDT per BTC,92,0
+gross_return_240m,float64,decimal fractional return (0.01=1%),92,0
+net_return_240m,float64,decimal fractional return (0.01=1%),92,0
+mfe_240m,float64,decimal fractional return (0.01=1%),92,0
+mae_240m,float64,decimal fractional return (0.01=1%),92,0
+keep_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+new_extreme_touch_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade50_touch_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade100_touch_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade50_end_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+fade100_end_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+reverse5_touch_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+reverse5_end_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+first_reverse5_min_240m,float64,"minutes since CPI; blank also means no trigger, check status and reverse5_touch flags",56,36
+gross_win_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+net_win_240m,int64,"0/1 flag where numeric; blank is unknown, not 0",92,0
+baseline_exit_price_240m,float64,USDT per BTC,92,0
+baseline_exit_utc_240m,object,,92,0
+baseline_exit_mfe_240m,float64,decimal fractional return (0.01=1%),92,0
+baseline_exit_mae_240m,float64,decimal fractional return (0.01=1%),92,0
+baseline_exit_min_240m,float64,"minutes since CPI; blank also means no trigger, check status and reverse5_touch flags",56,36
+baseline_exit_gross_240m,float64,,92,0
+baseline_exit_net_240m,float64,,92,0
+status_1440m,object,,92,0
+p0_1440m,float64,USDT per BTC,91,1
+confirm_price_1440m,float64,USDT per BTC,91,1
+first_return_1440m,float64,"15m first-wave return; suffix is target horizon, not first-wave length; decimal (0.01=1%)",91,1
+direction_1440m,float64,,91,1
+fade50_at_confirm_1440m,float64,,91,1
+first_extreme_1440m,float64,USDT per BTC,91,1
+first_continuous_5m_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+sigma_c_1440m,float64,decimal fractional return (0.01=1%),91,1
+z_1440m,float64,,91,1
+end_price_1440m,float64,USDT per BTC,91,1
+release_return_1440m,float64,decimal fractional return (0.01=1%),91,1
+entry_price_1440m,float64,USDT per BTC,91,1
+entry_utc_1440m,object,,91,1
+exit_price_1440m,float64,USDT per BTC,91,1
+gross_return_1440m,float64,decimal fractional return (0.01=1%),91,1
+net_return_1440m,float64,decimal fractional return (0.01=1%),91,1
+mfe_1440m,float64,decimal fractional return (0.01=1%),91,1
+mae_1440m,float64,decimal fractional return (0.01=1%),91,1
+keep_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+new_extreme_touch_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+fade50_touch_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+fade100_touch_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+fade50_end_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+fade100_end_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+reverse5_touch_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+reverse5_end_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+first_reverse5_min_1440m,float64,"minutes since CPI; blank also means no trigger, check status and reverse5_touch flags",70,22
+gross_win_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+net_win_1440m,float64,"0/1 flag where numeric; blank is unknown, not 0",91,1
+baseline_exit_price_1440m,float64,USDT per BTC,91,1
+baseline_exit_utc_1440m,object,,91,1
+baseline_exit_mfe_1440m,float64,decimal fractional return (0.01=1%),91,1
+baseline_exit_mae_1440m,float64,decimal fractional return (0.01=1%),91,1
+baseline_exit_min_1440m,float64,"minutes since CPI; blank also means no trigger, check status and reverse5_touch flags",70,22
+baseline_exit_gross_1440m,float64,,91,1
+baseline_exit_net_1440m,float64,,91,1
+other_0830_known,object,,22,70
+other_0830_known_n,int64,,92,0
+coverage,object,,92,0
+fomc_release_within_24h,int64,,92,0
+fomc_later_release_utc,object,,3,89
+fomc_timing_status,object,,92,0
+2Y_return_15m,float64,"unverified empty placeholder; future yield signal must use yield_delta_bp, not a fractional yield return",0,92
+2Y_return_30m,float64,"unverified empty placeholder; future yield signal must use yield_delta_bp, not a fractional yield return",0,92
+2Y_return_60m,float64,"unverified empty placeholder; future yield signal must use yield_delta_bp, not a fractional yield return",0,92
+2Y_return_240m,float64,"unverified empty placeholder; future yield signal must use yield_delta_bp, not a fractional yield return",0,92
+ZT_return_15m,float64,decimal fractional return (0.01=1%),0,92
+ZT_return_30m,float64,decimal fractional return (0.01=1%),0,92
+ZT_return_60m,float64,decimal fractional return (0.01=1%),0,92
+ZT_return_240m,float64,decimal fractional return (0.01=1%),0,92
+NQ_return_15m,float64,decimal fractional return (0.01=1%),0,92
+NQ_return_30m,float64,decimal fractional return (0.01=1%),0,92
+NQ_return_60m,float64,decimal fractional return (0.01=1%),0,92
+NQ_return_240m,float64,decimal fractional return (0.01=1%),0,92
+DXY_return_15m,float64,decimal fractional return (0.01=1%),0,92
+DXY_return_30m,float64,decimal fractional return (0.01=1%),0,92
+DXY_return_60m,float64,decimal fractional return (0.01=1%),0,92
+DXY_return_240m,float64,decimal fractional return (0.01=1%),0,92
+cross_asset_status,object,,92,0
+zero_fee_promotion,bool,"0/1 flag where numeric; blank is unknown, not 0",92,0
+historical_fee_scenario_cost_bps,int64,basis points (24=0.24%),92,0
+historical_fee_scenario_net_30m,float64,,92,0
+historical_fee_scenario_net_60m,float64,,92,0
+historical_fee_scenario_net_240m,float64,,92,0
+historical_fee_scenario_net_1440m,float64,,91,1

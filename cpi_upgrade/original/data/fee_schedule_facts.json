@@ -1,0 +1,42 @@
+{
+  "sources": [
+    {
+      "source_name": "zero_fee_start",
+      "url": "https://www.binance.com/en/support/announcement/detail/10435147c55d4a40b64fcbf43cb46329",
+      "acquired_utc": "2026-10-11T11:24:45.494888+00:00",
+      "original_http_sha256": "d731590c41b7a58c11ec66eb09fe13398b92f74cb626bba05814fcc2ebe6a55c",
+      "http_body_gzip_encoded": true,
+      "key_facts": {
+        "pair": "BTCUSDT",
+        "effective_start_utc": "2022-07-08T14:00:00Z",
+        "maker_fee": 0,
+        "taker_fee": 0
+      }
+    },
+    {
+      "source_name": "zero_fee_end",
+      "url": "https://www.binance.com/en/support/announcement/detail/be13a645cca643d28eab5b9b34f2dc36",
+      "acquired_utc": "2026-10-11T11:24:45.708850+00:00",
+      "original_http_sha256": "d4b0140e1476c01e4badb1587eb862af7b5d26a449227de14fbe0896b4d7caad",
+      "http_body_gzip_encoded": true,
+      "key_facts": {
+        "pair": "BTCUSDT",
+        "effective_end_utc": "2023-03-22T00:00:00Z",
+        "fee_after_end": "standard user VIP schedule"
+      }
+    },
+    {
+      "source_name": "spot_fee_faq",
+      "url": "https://www.binance.com/en/support/faq/detail/e85d6e703b874674840122196b89780a",
+      "acquired_utc": "2026-10-11T11:24:45.361169+00:00",
+      "original_http_sha256": "e4057f1ea26923a2681c019d3130fef1f33f2454ba93acdddc13f5653c418f1c",
+      "http_body_gzip_encoded": true,
+      "key_facts": {
+        "pair": "BTCUSDT",
+        "standard_reference_single_side_fee": 0.001,
+        "historical_account_fee_certified": false
+      }
+    }
+  ],
+  "scope": "public factual dates, pair and fee rules; original article prose omitted; standard rate is a scenario"
+}

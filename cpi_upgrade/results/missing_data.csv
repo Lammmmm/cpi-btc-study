@@ -1,0 +1,62 @@
+﻿date,item,impact,status
+2025-12-18,headline_mom actual/forecast,exclude only indicator/pair/model complete-case comparisons,source not available; no imputation
+2025-12-18,core_mom actual/forecast,exclude only indicator/pair/model complete-case comparisons,source not available; no imputation
+2025-10 reference month,CPI official release,not an event; 92 universe,BLS did not collect survey data
+2021-02-10,24h price path: 79 missing minutes,24h path/return excluded; <=4h retained,original Binance daily archive missing 2021-02-11 03:41-04:59 UTC
+2019-01-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2019-02-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2019-03-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2019-05-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2019-06-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2019-07-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2019-08-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2020-01-14,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2020-04-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2020-08-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2020-11-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2020-12-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2021-01-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2021-03-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2021-09-14,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2021-10-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2021-11-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2021-12-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-01-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-02-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-03-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-04-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-05-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-06-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-07-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-08-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-09-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-11-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2022-12-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-01-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-02-14,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-05-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-06-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-07-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-08-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-09-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-10-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2023-11-14,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2024-01-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2024-03-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2024-05-15,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2024-06-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2024-07-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2024-08-14,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2024-09-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2024-11-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2025-04-10,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2025-05-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2025-06-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2025-09-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2025-10-24,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2025-12-18,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2026-01-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2026-02-13,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2026-05-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2026-08-12,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs
+2026-09-11,strict PIT growth state,growth unclassified; all BTC and CPI retained,two-of-three deterioration not identified from certified inputs

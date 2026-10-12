@@ -1,0 +1,4 @@
+url,utc,error
+https://api.stlouisfed.org/fred/series/observations?series_id=UNRATE&file_type=json,2026-10-11T10:55:37.731262+00:00,<HTTPError 400: 'Bad Request'>
+https://hist.databento.com/v0/metadata.list_unit_prices?dataset=GLBX.MDP3,2026-10-11T11:09:26.540483+00:00,<HTTPError 401: 'Unauthorized'>
+https://databento-media.s3-website-us-east-1.amazonaws.com/media/unit-pricing-draft-2024-04-01.pdf,2026-10-11T11:09:28.503014+00:00,<HTTPError 502: 'Bad Gateway'>

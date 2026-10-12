@@ -1,0 +1,9 @@
+﻿target,split,metric,effect_combined_minus_headline,ci_low,ci_high,p,n,method,q_prediction_exploratory
+first15_up,holdout_2024_2026,brier,0.00685781821116,-0.0166426044279,0.0304871637709,0.577842215778,31,paired event bootstrap and sign-flip randomization; exploratory,0.59504049595
+first15_up,holdout_2024_2026,log_loss,0.0139928959499,-0.0350993288937,0.0640884343514,0.59504049595,31,paired event bootstrap and sign-flip randomization; exploratory,0.59504049595
+first15_up,walk_forward_2022_2026,brier,0.0118951624813,-0.0103198129252,0.0341671934545,0.308769123088,55,paired event bootstrap and sign-flip randomization; exploratory,0.455421124554
+first15_up,walk_forward_2022_2026,log_loss,0.0249912487924,-0.0230398698446,0.0734661364931,0.331366863314,55,paired event bootstrap and sign-flip randomization; exploratory,0.455421124554
+keep4h_strong,holdout_2024_2026,brier,0.0148638745196,-0.00812597708059,0.0402799255437,0.261273872613,22,paired event bootstrap and sign-flip randomization; exploratory,0.455421124554
+keep4h_strong,holdout_2024_2026,log_loss,0.0310927892886,-0.0161849505944,0.0827894371701,0.247875212479,22,paired event bootstrap and sign-flip randomization; exploratory,0.455421124554
+keep4h_strong,walk_forward_2022_2026,brier,0.0126238003005,-0.0101981439964,0.0361084256825,0.309369063094,39,paired event bootstrap and sign-flip randomization; exploratory,0.455421124554
+keep4h_strong,walk_forward_2022_2026,log_loss,0.026036674387,-0.023938236848,0.0793487264097,0.341565843416,39,paired event bootstrap and sign-flip randomization; exploratory,0.455421124554

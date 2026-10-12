@@ -1,0 +1,359 @@
+
+
+
+Transmission of material in this release is embargoed until                                        
+8:30 a.m. (EDT) April 10, 2020                 USDL-20-0568
+
+Technical information: (202) 691-7000    cpi_info@bls.gov    www.bls.gov/cpi
+Media Contact:         (202) 691-5902    PressOffice@bls.gov 
+
+CONSUMER PRICE INDEX  MARCH 2020
+
+The Consumer Price Index for All Urban Consumers (CPI-U) declined 0.4 percent in
+March on a seasonally adjusted basis, the largest monthly decline since January
+2015, the U.S. Bureau of Labor Statistics reported today. Over the last 12 months,
+the all items index increased 1.5 percent before seasonal adjustment.
+
+A sharp decline in the gasoline index was a major cause of the monthly decrease in
+the seasonally adjusted all items index, with decreases in the indexes for airline
+fares, lodging away from home, and apparel also contributing. The energy index
+fell 5.8 percent as the gasoline index decreased 10.5 percent. The food index rose
+in March, increasing 0.3 percent as the food at home index rose 0.5 percent. 
+
+The index for all items less food and energy fell 0.1 percent in March, its first
+monthly decline since January 2010. Along with the indexes for airline fares,
+lodging away from home, and apparel, the index for new vehicles declined in March.
+The index for shelter was unchanged, with increases in the indexes for rent and
+for owners equivalent rent offsetting the aforementioned decline in the index for
+lodging away from home. Indexes that increased in March include medical care, used
+cars and trucks, motor vehicle insurance, and education.  
+
+The all items index increased 1.5 percent for the 12 months ending March, a
+notably smaller increase than the 2.3-percent increase for the period ending
+February. The index for all items less food and energy rose 2.1 percent over the
+last 12 months. The food index rose 1.9 percent over the last 12 months, while the
+energy index declined 5.7 percent.
+
+
+ Table A. Percent changes in CPI for All Urban Consumers (CPI-U): U.S. city
+ average
+                                                                               
+                                                                               
+                                  Seasonally adjusted changes from             
+                                          preceding month                      
+                                                                          Un-  
+                                                                       adjusted
+                                                                        12-mos.
+                              Sep.  Oct.  Nov.  Dec.  Jan.  Feb.  Mar.   ended 
+                              2019  2019  2019  2019  2020  2020  2020   Mar.  
+                                                                         2020  
+                                                                               
+                                                                               
+ All items..................    .1    .2    .2    .2    .1    .1   -.4      1.5
+  Food......................    .2    .2    .1    .2    .2    .4    .3      1.9
+   Food at home.............    .1    .2    .1    .0    .1    .5    .5      1.1
+   Food away from home (1)..    .3    .2    .2    .3    .4    .2    .2      3.0
+  Energy....................   -.8   1.7    .8   1.6   -.7  -2.0  -5.8     -5.7
+   Energy commodities.......  -1.5   2.6   1.2   3.0  -1.6  -3.5 -10.4    -10.4
+    Gasoline (all types)....  -1.5   2.7   1.2   3.1  -1.6  -3.4 -10.5    -10.2
+    Fuel oil................   -.6   1.1   1.0   1.1   -.4  -8.5 -13.7    -20.1
+   Energy services..........    .1    .7    .2   -.2    .6   -.3   -.5      -.5
+    Electricity.............    .2    .6    .2   -.2    .4   -.1   -.2       .2
+    Utility (piped) gas                                                        
+       service..............   -.2   1.2    .5   -.5   1.0   -.9  -1.4     -2.9
+  All items less food and                                                      
+     energy.................    .2    .1    .2    .1    .2    .2   -.1      2.1
+   Commodities less food and                                                   
+      energy commodities....    .0   -.4   -.1    .0    .0    .2   -.3      -.2
+    New vehicles............   -.1   -.1   -.1    .1    .0    .1   -.4      -.4
+    Used cars and trucks....    .6  -1.2   -.7   -.4  -1.2    .4    .8       .1
+    Apparel.................   -.3  -1.7    .6    .1    .7    .4  -2.0     -1.6
+    Medical care commodities   -.1   1.0    .0   1.0   -.6   -.6    .0      1.3
+   Services less energy                                                        
+      services..............    .2    .3    .3    .2    .3    .2    .0      2.8
+    Shelter.................    .3    .1    .3    .2    .4    .3    .0      3.0
+    Transportation services     .2    .1    .0   -.1    .3    .3  -1.9      -.7
+    Medical care services...    .4    .8    .4    .3    .3    .3    .5      5.5
+
+   1 Not seasonally adjusted.
+
+ 
+Food
+
+The food index increased 0.3 percent in March, after rising 0.4 percent in February.
+The index for food at home increased 0.5 percent in March, the same increase as the
+prior month. All six major grocery store food group indexes increased in March. The
+index for nonalcoholic beverages rose 0.9 percent, its third consecutive increase.
+The index for fruits and vegetables rose 0.8 percent in March after being unchanged
+in February. 
+
+The index for dairy and related products continued to rise, increasing 0.6 percent
+in March after a 1.1-percent increase in February. The index for other food at
+home also rose 0.6 percent over the month, and the indexes for cereals and bakery
+products and for meats, poultry, fish, and eggs each increased 0.1 percent.  
+
+The index for food away from home rose 0.2 percent in March, the same increase as
+the prior month. The index for limited service meals rose 0.4 percent, while the
+index for full service meals was unchanged in March.
+
+The food at home index increased 1.1 percent over the last 12 months. The index
+for dairy and related products increased 3.7 percent over the last year. The index
+for meats, poultry, fish, and eggs rose 2.3 percent, with the beef index increasing
+3.8 percent. The indexes for nonalcoholic beverages and for other food at home both
+rose 1.4 percent over the last 12 months, while the index for cereals and bakery
+products increased slightly, rising 0.1 percent. The fruits and vegetables index
+declined 1.9 percent, with the fresh fruits index falling 3.5 percent. The index
+for food away from home rose 3.0 percent over the last year. The index for full
+service meals increased 3.2 percent and the index for limited service meals rose
+2.8 percent over the last 12 months.
+
+Energy
+
+The energy index declined 5.8 percent in March, its largest monthly decrease since
+January 2015. The gasoline index fell for the third month in a row, declining 10.5
+percent; before seasonal adjustment, gasoline prices fell 7.4 percent. The other
+major energy component indexes also declined in March. The index for fuel oil
+declined sharply, falling 13.7 percent. The index for natural gas fell 1.4 percent,
+and the electricity index decreased 0.2 percent. 
+
+The energy index fell 5.7 percent over the past 12 months, its largest 12-month
+decline since the period ending August 2016. The gasoline index decreased 10.2
+percent, while the fuel oil index fell 20.1 percent. The index for natural gas
+declined more modestly, falling 2.9 percent. The electricity index increased
+slightly over the last 12 months, rising 0.2 percent. 
+ 
+All items less food and energy
+
+The index for all items less food and energy decreased 0.1 percent in March. The
+shelter index was unchanged in March. The indexes for rent and owners equivalent
+rent both increased 0.3 percent, but were offset by a 6.8-percent decline in the
+index for lodging away from home. The airline fares index declined sharply in March,
+falling 12.6 percent following a 0.3-percent decline in February. The apparel index
+fell 2.0 percent in March after rising in each of the prior 4 months. The index for
+new vehicles fell 0.4 percent in March after rising in February.
+
+The medical care index rose 0.4 percent in March, though its component indexes were
+mixed. The index for physicians services rose 0.3 percent, and the index for
+hospital services increased 0.4 percent. The prescription drugs index, however,
+decreased 0.2 percent. The index for used cars and trucks increased 0.8 percent in
+March, and the index for motor vehicle insurance rose 0.6 percent. The indexes for
+education, recreation, tobacco, alcoholic beverages, and personal care all also
+increased in March.  
+
+The index for all items less food and energy rose 2.1 percent over the past 12 months.
+The shelter index rose 3.0 percent over the 12-month span, and the medical care
+index rose 4.7 percent. Indexes that declined over the past 12 months include
+airline fares (-10.6 percent), apparel (-1.6 percent), and new vehicles (-0.4
+percent). 
+
+Not seasonally adjusted CPI measures
+
+The Consumer Price Index for All Urban Consumers (CPI-U) increased 1.5 percent over
+the last 12 months to an index level of 258.115 (1982-84=100). For the month, the
+index decreased 0.2 percent prior to seasonal adjustment.  
+
+The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W)
+increased 1.5 percent over the last 12 months to an index level of 251.375
+(1982-84=100). For the month, the index decreased 0.2 percent prior to seasonal
+adjustment.  
+
+The Chained Consumer Price Index for All Urban Consumers (C-CPI-U) increased 1.3
+percent over the last 12 months. For the month, the index decreased 0.3 percent on
+a not seasonally adjusted basis. Please note that the indexes for the past 10 to
+12 months are subject to revision. 
+
+_______________
+The Consumer Price Index for April 2020 is scheduled to be released on Tuesday,
+May 12, 2020 at 8:30 a.m. (EDT).
+ 
+---------------------------------------------------------------------------------------------------
+Coronavirus (COVID-19) Impact on March 2020 Consumer Price Index Data
+
+The Consumer Price Index (CPI) program suspended data collection by personal visit
+on March 16, 2020. When possible, data normally collected by personal visit were
+collected either online or by phone. Additionally, data collection in March was
+affected by the temporary closing or limited operations of certain types of
+establishments. These factors resulted in an increase in the number of prices being
+considered temporarily unavailable and imputed. While the CPI program attempted to
+collect as much data as possible, many indexes are based on smaller amounts of
+collected prices than usual, and a small number of indexes that are normally
+published were not published this month. Additional information is available at
+www.bls.gov/bls/effects-of-covid-19-pandemic-on-bls-price-indexes.htm#CPI.
+
+Specific information about the impact of COVID-19 on March 2020 CPI data collection is
+available at www.bls.gov/cpi/additional-resources/covid19-statement-march-2020.htm.
+---------------------------------------------------------------------------------------------------
+
+Technical Note
+
+Brief Explanation of the CPI
+
+The Consumer Price Index (CPI) measures the change in prices paid by consumers 
+for goods and services. The CPI reflects spending patterns for each of two 
+population groups: all urban consumers and urban wage earners and clerical 
+workers. The all urban consumer group represents about 93 percent of the total 
+U.S. population. It is based on the expenditures of almost all residents of 
+urban or metropolitan areas, including professionals, the self-employed, the poor, 
+the unemployed, and retired people, as well as urban wage earners and clerical 
+workers. Not included in the CPI are the spending patterns of people living in 
+rural nonmetropolitan areas, farming families, people in the Armed Forces, and 
+those in institutions, such as prisons and mental hospitals. Consumer inflation 
+for all urban consumers is measured by two indexes, namely, the Consumer Price 
+Index for All Urban Consumers (CPI-U) and the Chained Consumer Price Index for 
+All Urban Consumers (C-CPI-U). 
+
+The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) is 
+based on the expenditures of households included in the CPI-U definition that 
+meet two requirements: more than one-half of the household's income must come 
+from clerical or wage occupations, and at least one of the household's earners 
+must have been employed for at least 37 weeks during the previous 12 months. The 
+CPI-W population represents about 29 percent of the total U.S. population and is 
+a subset of the CPI-U population.
+
+The CPIs are based on prices of food, clothing, shelter, fuels, transportation, 
+doctors and dentists services, drugs, and other goods and services that people 
+buy for day-to-day living. Prices are collected each month in 75 urban areas 
+across the country from about 6,000 housing units and approximately 22,000 retail 
+establishments (department stores, supermarkets, hospitals, filling stations, and 
+other types of stores and service establishments). All taxes directly associated 
+with the purchase and use of items are included in the index. Prices of fuels and 
+a few other items are obtained every month in all 75 locations. Prices of most 
+other commodities and services are collected every month in the three largest 
+geographic areas and every other month in other areas. Prices of most goods and 
+services are obtained by personal visits or telephone calls by the Bureaus 
+trained representatives.
+
+In calculating the index, price changes for the various items in each location 
+are aggregated using weights, which represent their importance in the spending 
+of the appropriate population group. Local data are then combined to obtain a 
+U.S. city average. For the CPI-U and CPI-W, separate indexes are also published 
+by size of city, by region of the country, for cross-classifications of regions 
+and population-size classes, and for 23 selected local areas. Area indexes do not 
+measure differences in the level of prices among cities; they only measure the 
+average change in prices for each area since the base period. For the C-CPI-U, 
+data are issued only at the national level. The CPI-U and CPI-W are considered 
+final when released, but the C-CPI-U is issued in preliminary form and subject to 
+three subsequent quarterly revisions. 
+
+The index measures price change from a designed reference date. For most of the 
+CPI-U and the CPI-W, the reference base is 1982-84 equals 100. The reference base 
+for the C-CPI-U is December 1999 equals 100.  An increase of 7 percent from the 
+reference base, for example, is shown as 107.000. Alternatively, that relationship 
+can also be expressed as the price of a base period market basket of goods and 
+services rising from $100 to $107. 
+
+Sampling Error in the CPI
+
+The CPI is a statistical estimate that is subject to sampling error because it is 
+based upon a sample of retail prices and not the complete universe of all prices. 
+BLS calculates and publishes estimates of the 1-month, 2-month, 6-month, and 12-
+month percent change standard errors annually for the CPI-U. These standard error 
+estimates can be used to construct confidence intervals for hypothesis testing. 
+For example, the estimated standard error of the 1-month percent change is 0.03 
+percent for the U.S. all items CPI. This means that if we repeatedly sample from 
+the universe of all retail prices using the same methodology, and estimate a 
+percentage change for each sample, then 95 percent of these estimates will be 
+within 0.06 percent of the 1-month percentage change based on all retail prices. 
+For example, for a 1-month change of 0.2 percent in the all items CPI-U, we are 
+95 percent confident that the actual percent change based on all retail prices 
+would fall between 0.14 and 0.26 percent. For the latest data, including 
+information on how to use the estimates of standard error, see 
+https://www.bls.gov/cpi/tables/variance-estimates/home.htm. 
+
+Calculating Index Changes
+
+Movements of the indexes from 1 month to another are usually expressed as percent 
+changes rather than changes in index points, because index point changes are 
+affected by the level of the index in relation to its base period, while percent 
+changes are not. 
+
+The following table shows an example of using index values to calculate percent 
+changes:
+
+				Item A  		Item B  		  Item C
+Year I 				112.500 		225.000 		  110.000
+Year II 			121.500 		243.000 		  128.000
+Change in index points 		9.000 			18.000 			  18.000
+Percent change 			9.0/112.500 x 100 = 8.0 18.0/225.000 x 100 = 8.0  18.0/110.000 x 100 = 16.4
+
+Use of Seasonally Adjusted and Unadjusted Data
+
+The Consumer Price Index (CPI) produces both unadjusted and seasonally adjusted data. 
+Seasonally adjusted data are computed using seasonal factors derived by the X-13ARIMA-
+SEATS seasonal adjustment method. These factors are updated each February, and the new 
+factors are used to revise the previous 5 years of seasonally adjusted data. The factors 
+are available at www.bls.gov/cpi/tables/seasonal-adjustment/seasonal-factors-2020.pdf. 
+For more information on data revision scheduling, please see the Factsheet on Seasonal 
+Adjustment at www.bls.gov/cpi/seasonal-adjustment/questions-and-answers.htm and the 
+Timeline of Seasonal Adjustment Methodological Changes at 
+www.bls.gov/cpi/seasonal-adjustment/timeline-seasonal-adjustment-methodology-changes.htm. 
+
+For analyzing short-term price trends in the economy, seasonally adjusted changes are 
+usually preferred since they eliminate the effect of changes that normally occur at the 
+same time and in about the same magnitude every yearsuch as price movements resulting 
+from weather events, production cycles, model changeovers, holidays, and sales. This 
+allows data users to focus on changes that are not typical for the time of year. The 
+unadjusted data are of primary interest to consumers concerned about the prices they 
+actually pay. Unadjusted data are also used extensively for escalation purposes. Many 
+collective bargaining contract agreements and pension plans, for example, tie compensation 
+changes to the Consumer Price Index before adjustment for seasonal variation. BLS advises 
+against the use of seasonally adjusted data in escalation agreements because seasonally 
+adjusted series are revised annually.
+
+Intervention Analysis
+
+The Bureau of Labor Statistics uses intervention analysis seasonal adjustment for some 
+CPI series. Sometimes extreme values or sharp movements can distort the underlying seasonal 
+pattern of price change. Intervention analysis seasonal adjustment is a process by which 
+the distortions caused by such unusual events are estimated and removed from the data prior 
+to calculation of seasonal factors. The resulting seasonal factors, which more accurately 
+represent the seasonal pattern, are then applied to the unadjusted data. 
+
+For example, this procedure was used for the motor fuel series to offset the effects of the 
+2009 return to normal pricing after the worldwide economic downturn in 2008. Retaining this 
+outlier data during seasonal factor calculation would distort the computation of the seasonal 
+portion of the time series data for motor fuel, so it was estimated and removed from the data 
+prior to seasonal adjustment. Following that, seasonal factors were calculated based on this 
+prior adjusted data. These seasonal factors represent a clearer picture of the seasonal 
+pattern in the data. The last step is for motor fuel seasonal factors to be applied to the 
+unadjusted data.
+
+For the seasonal factors introduced for January 2020, BLS adjusted 53 series using intervention 
+analysis seasonal adjustment, including selected food and beverage items, motor fuels, 
+electricity, and vehicles. 
+
+Revision of Seasonally Adjusted Indexes
+
+Seasonally adjusted data, including the U.S. city average all items index levels, are subject 
+to revision for up to 5 years after their original release. Every year, economists in the CPI 
+calculate new seasonal factors for seasonally adjusted series and apply them to the last 5 
+years of data. Seasonally adjusted indexes beyond the last 5 years of data are considered to 
+be final and not subject to revision. For January 2020, revised seasonal factors and seasonally 
+adjusted indexes for 2015 to 2019 were calculated and published. For series which are directly 
+adjusted using the Census X-13ARIMA-SEATS seasonal adjustment software, the seasonal factors 
+for 2019 will be applied to data for 2020 to produce the seasonally adjusted 2020 indexes. 
+Series which are indirectly seasonally adjusted by summing seasonally adjusted component series 
+have seasonal factors which are derived and are therefore not available in advance. 
+
+Determining Seasonal Status
+
+Each year the seasonal status of every series is reevaluated based upon certain statistical 
+criteria. Using these criteria, BLS economists determine whether a series should change its 
+status from "not seasonally adjusted" to "seasonally adjusted", or vice versa. If any of the 
+81 components of the U.S. city average all items index change their seasonal adjustment status 
+from seasonally adjusted to not seasonally adjusted, not seasonally adjusted data will be used 
+in the aggregation of the dependent series for the last 5 years, but the seasonally adjusted 
+indexes before that period will not be changed. Twenty-eight of the 81 components of the U.S. 
+city average all items index are not seasonally adjusted for 2020.
+
+Contact Information
+
+For additional information about the CPI visit www.bls.gov/cpi or contact the CPI Information 
+and Analysis Section at 202-691-7000 or cpi_info@bls.gov. 
+
+For additional information on seasonal adjustment in the CPI visit 
+www.bls.gov/cpi/seasonal-adjustment/home.htm or contact the CPI seasonal adjustment section 
+at 202-691-6968 or cpiseas@bls.gov. 
+
+Information from this release will be made available to sensory impaired individuals upon 
+request. Voice phone: 202-691-5200; Federal Relay Service: 1-800-877-8339.  

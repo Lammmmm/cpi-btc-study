@@ -1,0 +1,69 @@
+{
+  "offline_archive_reproduction": "passed",
+  "sample_count": 92,
+  "no_original_full_calendar_html_required": true,
+  "no_original_fee_article_required": true,
+  "core_tables": [
+    {
+      "file": "event_paths.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "958dc8b4694f9567b5ad3e48ef007b967cd1f10c1c1a5033fba9042368524c51",
+      "sha256_frozen_reproduction": "958dc8b4694f9567b5ad3e48ef007b967cd1f10c1c1a5033fba9042368524c51"
+    },
+    {
+      "file": "table_G_events.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "5064476bd9744c04cd0539731ace7281eca2d897eb6e2556c855a28a03c38bff",
+      "sha256_frozen_reproduction": "5064476bd9744c04cd0539731ace7281eca2d897eb6e2556c855a28a03c38bff"
+    },
+    {
+      "file": "hypothesis_tests.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "8f5cabe6ee211c572c0ede9cab69c7fa764731124fdf9cc157af4cf2d8784c95",
+      "sha256_frozen_reproduction": "8f5cabe6ee211c572c0ede9cab69c7fa764731124fdf9cc157af4cf2d8784c95"
+    },
+    {
+      "file": "table_F_strategies.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "5ca09e8a91d452f7f2ae8f69c6ef17e98b55b0e75f892f9b9cc0e9e3dadab432",
+      "sha256_frozen_reproduction": "5ca09e8a91d452f7f2ae8f69c6ef17e98b55b0e75f892f9b9cc0e9e3dadab432"
+    },
+    {
+      "file": "table_A_headline.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "fe4975bd7d6cd369a3bbd53d9aafed5e680c8cea80f4153e3061ae790475666b",
+      "sha256_frozen_reproduction": "fe4975bd7d6cd369a3bbd53d9aafed5e680c8cea80f4153e3061ae790475666b"
+    },
+    {
+      "file": "table_B_strict.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "b45208208eb0b8cc3a026f9f579b4783c9fec48ad0c2e691c1090ae1307cc0f3",
+      "sha256_frozen_reproduction": "b45208208eb0b8cc3a026f9f579b4783c9fec48ad0c2e691c1090ae1307cc0f3"
+    },
+    {
+      "file": "table_B_snapshot.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "e2d658bb4f0a876d4e59d9eac0b389a127cfd21ea5f301518391ece0d4ca90d1",
+      "sha256_frozen_reproduction": "e2d658bb4f0a876d4e59d9eac0b389a127cfd21ea5f301518391ece0d4ca90d1"
+    },
+    {
+      "file": "table_C.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "9c37ea7f93475c8cfcb68ae7330a282ed2ba11d1e17d7b51ad851114791fe569",
+      "sha256_frozen_reproduction": "9c37ea7f93475c8cfcb68ae7330a282ed2ba11d1e17d7b51ad851114791fe569"
+    },
+    {
+      "file": "historical_fee_scenario.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "e4b36e73887ad131573f054a72c2aebce4da48068304c0fb92e41dc00b05cbb4",
+      "sha256_frozen_reproduction": "e4b36e73887ad131573f054a72c2aebce4da48068304c0fb92e41dc00b05cbb4"
+    },
+    {
+      "file": "execution_latency_sensitivity.csv",
+      "numeric_and_labels_exact_match": true,
+      "sha256_original": "b3aa33dc435c95ae963ebf956dac47cb720e0c3952ff319bf594ce50e7bd6630",
+      "sha256_frozen_reproduction": "b3aa33dc435c95ae963ebf956dac47cb720e0c3952ff319bf594ce50e7bd6630"
+    }
+  ],
+  "note": "Final report prose corrected after frozen numeric reproduction; underlying numerical tables unchanged."
+}

@@ -1,0 +1,430 @@
+﻿field,dtype,unit_or_meaning,nonmissing_n,missing_n
+date,object,,92,0
+reference_label,object,,92,0
+url,object,,92,0
+t0_utc,object,,92,0
+year,int64,,92,0
+release_et,object,,92,0
+cpi_status,object,,92,0
+embargo_0830_verified,bool,,92,0
+headline_mom_actual,float64,CPI percent level/change; not decimal rate,91,1
+headline_yoy_actual,float64,CPI percent level/change; not decimal rate,92,0
+core_mom_actual,float64,CPI percent level/change; not decimal rate,91,1
+core_yoy_actual,float64,CPI percent level/change; not decimal rate,92,0
+energy_mom_actual,float64,CPI percent level/change; not decimal rate,91,1
+energy_yoy_actual,float64,CPI percent level/change; not decimal rate,92,0
+shelter_mom_actual,float64,CPI percent level/change; not decimal rate,91,1
+shelter_yoy_actual,float64,CPI percent level/change; not decimal rate,92,0
+services_ex_energy_mom_actual,float64,CPI percent level/change; not decimal rate,91,1
+services_ex_energy_yoy_actual,float64,CPI percent level/change; not decimal rate,92,0
+headline_yoy_forecast,float64,CPI percent level/change; not decimal rate,92,0
+headline_yoy_calendar_actual,float64,CPI percent level/change; not decimal rate,92,0
+headline_yoy_occurrence_id,int64,,92,0
+headline_yoy_forecast_source,object,,92,0
+headline_yoy_calendar_matches_bls,bool,,92,0
+headline_yoy_surprise_pp,float64,percentage points (0.1 = 0.1pp),92,0
+headline_yoy_class,object,,92,0
+headline_yoy_size,object,,92,0
+headline_mom_forecast,float64,CPI percent level/change; not decimal rate,91,1
+headline_mom_calendar_actual,float64,CPI percent level/change; not decimal rate,91,1
+headline_mom_occurrence_id,float64,,91,1
+headline_mom_forecast_source,object,,91,1
+headline_mom_calendar_matches_bls,bool,,92,0
+headline_mom_surprise_pp,float64,percentage points (0.1 = 0.1pp),91,1
+headline_mom_class,object,,92,0
+headline_mom_size,object,,92,0
+core_yoy_forecast,float64,CPI percent level/change; not decimal rate,92,0
+core_yoy_calendar_actual,float64,CPI percent level/change; not decimal rate,92,0
+core_yoy_occurrence_id,int64,,92,0
+core_yoy_forecast_source,object,,92,0
+core_yoy_calendar_matches_bls,bool,,92,0
+core_yoy_surprise_pp,float64,percentage points (0.1 = 0.1pp),92,0
+core_yoy_class,object,,92,0
+core_yoy_size,object,,92,0
+core_mom_forecast,float64,CPI percent level/change; not decimal rate,91,1
+core_mom_calendar_actual,float64,CPI percent level/change; not decimal rate,91,1
+core_mom_occurrence_id,float64,,91,1
+core_mom_forecast_source,object,,91,1
+core_mom_calendar_matches_bls,bool,,92,0
+core_mom_surprise_pp,float64,percentage points (0.1 = 0.1pp),91,1
+core_mom_class,object,,92,0
+core_mom_size,object,,92,0
+combo_yoy,object,,92,0
+combo_mom,object,,92,0
+scheduled_jobless_claims,bool,,92,0
+employment_bad,float64,,91,1
+consumption_bad,float64,,91,1
+ism_bad_release_snapshot,int64,,92,0
+ism_bad_strict,float64,,0,92
+UNRATE_last_observation,object,,92,0
+UNRATE_latest,float64,,92,0
+PAYEMS_last_observation,object,,92,0
+PAYEMS_latest,int64,,92,0
+PCEC96_last_observation,object,,91,1
+PCEC96_latest,float64,,91,1
+DFEDTARU_last_observation,object,,92,0
+DFEDTARU_latest,float64,,92,0
+unrate_3m_reference_month,object,,92,0
+unrate_3m_change_pp,float64,,91,1
+unrate_bad,float64,,91,1
+payroll_bad,int64,,92,0
+payroll_3m_average_thousands,float64,,92,0
+payroll_6m_average_thousands,float64,,92,0
+payroll_last3_changes_thousands,object,,92,0
+real_pce_3m_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+ism_latest_release,object,,92,0
+ism_latest,float64,,92,0
+ism_3m_average,float64,,92,0
+ism_previous3m_average,float64,,92,0
+ism_pit_status,object,,92,0
+growth_strict,object,,92,0
+growth_snapshot,object,,92,0
+last_fomc_date,object,,92,0
+last_fomc_actual_upper,float64,,92,0
+last_fomc_forecast_upper,float64,,90,2
+policy_stage,object,,92,0
+fomc_matches_vintage,bool,,92,0
+future_fomc_market_expectation,object,,92,0
+pandemic_crisis,int64,,92,0
+high_inflation,int64,,92,0
+rapid_hiking,int64,,92,0
+ZT_return_15m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,0,92
+NQ_return_15m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,0,92
+DXY_return_15m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,0,92
+cross_asset_status,object,,92,0
+zero_fee_promotion,bool,,92,0
+historical_fee_scenario_cost_bps,int64,,92,0
+other_0830_known,object,,22,70
+other_0830_known_n,int64,,92,0
+coverage,object,,92,0
+fomc_release_within_24h,int64,,92,0
+fomc_later_release_utc,object,,3,89
+fomc_timing_status,object,,92,0
+headline_mom_sign,float64,,91,1
+headline_mom_bucket5,object,,92,0
+headline_mom_extreme03,object,USDT per BTC,91,1
+headline_mom_rolling_prior_sigma_pp,float64,percentage points (0.1 = 0.1pp),80,12
+headline_mom_surprise_z_prior24,float64,,79,13
+headline_mom_actual_source,object,,92,0
+headline_mom_forecast_availability,object,,92,0
+core_mom_sign,float64,,91,1
+core_mom_bucket5,object,,92,0
+core_mom_extreme03,object,USDT per BTC,91,1
+core_mom_rolling_prior_sigma_pp,float64,percentage points (0.1 = 0.1pp),80,12
+core_mom_surprise_z_prior24,float64,,79,13
+core_mom_actual_source,object,,92,0
+core_mom_forecast_availability,object,,92,0
+headline_yoy_sign,int64,,92,0
+headline_yoy_bucket5,object,,92,0
+headline_yoy_extreme03,bool,USDT per BTC,92,0
+headline_yoy_rolling_prior_sigma_pp,float64,percentage points (0.1 = 0.1pp),80,12
+headline_yoy_surprise_z_prior24,float64,,80,12
+headline_yoy_actual_source,object,,92,0
+headline_yoy_forecast_availability,object,,92,0
+core_yoy_sign,int64,,92,0
+core_yoy_bucket5,object,,92,0
+core_yoy_extreme03,bool,USDT per BTC,92,0
+core_yoy_rolling_prior_sigma_pp,float64,percentage points (0.1 = 0.1pp),80,12
+core_yoy_surprise_z_prior24,float64,,80,12
+core_yoy_actual_source,object,,92,0
+core_yoy_forecast_availability,object,,92,0
+joint_exclusive,object,,92,0
+mom_pair,object,,92,0
+mom_magnitude_pair,object,,92,0
+yoy_pair,object,,92,0
+yoy_magnitude_pair,object,,92,0
+hy_cm_pair,object,,92,0
+hy_cm_magnitude_pair,object,,92,0
+p0,float64,USDT per BTC,92,0
+price_path_complete_5m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+btc_return_5m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+btc_close_5m,float64,,92,0
+price_path_complete_10m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+btc_return_10m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+btc_close_10m,float64,,92,0
+price_path_complete_15m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+btc_return_15m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+btc_close_15m,float64,,92,0
+price_path_complete_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+btc_return_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+btc_close_30m,float64,,92,0
+price_path_complete_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+btc_return_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+btc_close_60m,float64,,92,0
+price_path_complete_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+btc_return_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+btc_close_120m,float64,,92,0
+price_path_complete_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+btc_return_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+btc_close_240m,float64,,92,0
+price_path_complete_1440m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+btc_return_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+btc_close_1440m,float64,,91,1
+status_30m,object,,92,0
+p0_30m,float64,USDT per BTC,92,0
+confirm_price_30m,float64,USDT per BTC,92,0
+first_return_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+direction_30m,int64,,92,0
+fade50_at_confirm_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+first_extreme_30m,float64,USDT per BTC,92,0
+first_continuous_5m_30m,int64,,92,0
+sigma_c_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+z_30m,float64,,92,0
+end_price_30m,float64,USDT per BTC,92,0
+release_return_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+entry_price_30m,float64,USDT per BTC,92,0
+entry_utc_30m,object,,92,0
+exit_price_30m,float64,USDT per BTC,92,0
+gross_return_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+net_return_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+mfe_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+mae_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+keep_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+new_extreme_touch_30m,int64,USDT per BTC,92,0
+fade50_touch_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade100_touch_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade50_end_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade100_end_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+reverse5_touch_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+reverse5_end_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+first_reverse5_min_30m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,21,71
+gross_win_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+net_win_30m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+baseline_exit_price_30m,float64,USDT per BTC,92,0
+baseline_exit_utc_30m,object,,92,0
+baseline_exit_mfe_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+baseline_exit_mae_30m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+baseline_exit_min_30m,float64,minutes since T0; missing trigger means untriggered if complete path,18,74
+baseline_exit_gross_30m,float64,,92,0
+baseline_exit_net_30m,float64,,92,0
+post_reverse_follow_through_30m,float64,,18,74
+new_extreme_end_30m,int64,USDT per BTC,92,0
+up_then_down_end_30m,int64,,92,0
+down_then_up_end_30m,int64,,92,0
+status_60m,object,,92,0
+p0_60m,float64,USDT per BTC,92,0
+confirm_price_60m,float64,USDT per BTC,92,0
+first_return_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+direction_60m,int64,,92,0
+fade50_at_confirm_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+first_extreme_60m,float64,USDT per BTC,92,0
+first_continuous_5m_60m,int64,,92,0
+sigma_c_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+z_60m,float64,,92,0
+end_price_60m,float64,USDT per BTC,92,0
+release_return_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+entry_price_60m,float64,USDT per BTC,92,0
+entry_utc_60m,object,,92,0
+exit_price_60m,float64,USDT per BTC,92,0
+gross_return_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+net_return_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+mfe_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+mae_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+keep_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+new_extreme_touch_60m,int64,USDT per BTC,92,0
+fade50_touch_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade100_touch_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade50_end_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade100_end_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+reverse5_touch_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+reverse5_end_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+first_reverse5_min_60m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,33,59
+gross_win_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+net_win_60m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+baseline_exit_price_60m,float64,USDT per BTC,92,0
+baseline_exit_utc_60m,object,,92,0
+baseline_exit_mfe_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+baseline_exit_mae_60m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+baseline_exit_min_60m,float64,minutes since T0; missing trigger means untriggered if complete path,31,61
+baseline_exit_gross_60m,float64,,92,0
+baseline_exit_net_60m,float64,,92,0
+post_reverse_follow_through_60m,float64,,31,61
+new_extreme_end_60m,int64,USDT per BTC,92,0
+up_then_down_end_60m,int64,,92,0
+down_then_up_end_60m,int64,,92,0
+status_120m,object,,92,0
+p0_120m,float64,USDT per BTC,92,0
+confirm_price_120m,float64,USDT per BTC,92,0
+first_return_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+direction_120m,int64,,92,0
+fade50_at_confirm_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+first_extreme_120m,float64,USDT per BTC,92,0
+first_continuous_5m_120m,int64,,92,0
+sigma_c_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+z_120m,float64,,92,0
+end_price_120m,float64,USDT per BTC,92,0
+release_return_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+entry_price_120m,float64,USDT per BTC,92,0
+entry_utc_120m,object,,92,0
+exit_price_120m,float64,USDT per BTC,92,0
+gross_return_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+net_return_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+mfe_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+mae_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+keep_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+new_extreme_touch_120m,int64,USDT per BTC,92,0
+fade50_touch_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade100_touch_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade50_end_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade100_end_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+reverse5_touch_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+reverse5_end_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+first_reverse5_min_120m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,48,44
+gross_win_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+net_win_120m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+baseline_exit_price_120m,float64,USDT per BTC,92,0
+baseline_exit_utc_120m,object,,92,0
+baseline_exit_mfe_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+baseline_exit_mae_120m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+baseline_exit_min_120m,float64,minutes since T0; missing trigger means untriggered if complete path,48,44
+baseline_exit_gross_120m,float64,,92,0
+baseline_exit_net_120m,float64,,92,0
+post_reverse_follow_through_120m,float64,,48,44
+new_extreme_end_120m,int64,USDT per BTC,92,0
+up_then_down_end_120m,int64,,92,0
+down_then_up_end_120m,int64,,92,0
+status_240m,object,,92,0
+p0_240m,float64,USDT per BTC,92,0
+confirm_price_240m,float64,USDT per BTC,92,0
+first_return_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+direction_240m,int64,,92,0
+fade50_at_confirm_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+first_extreme_240m,float64,USDT per BTC,92,0
+first_continuous_5m_240m,int64,,92,0
+sigma_c_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+z_240m,float64,,92,0
+end_price_240m,float64,USDT per BTC,92,0
+release_return_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+entry_price_240m,float64,USDT per BTC,92,0
+entry_utc_240m,object,,92,0
+exit_price_240m,float64,USDT per BTC,92,0
+gross_return_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+net_return_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+mfe_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+mae_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+keep_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+new_extreme_touch_240m,int64,USDT per BTC,92,0
+fade50_touch_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade100_touch_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade50_end_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+fade100_end_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+reverse5_touch_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+reverse5_end_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+first_reverse5_min_240m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,56,36
+gross_win_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+net_win_240m,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+baseline_exit_price_240m,float64,USDT per BTC,92,0
+baseline_exit_utc_240m,object,,92,0
+baseline_exit_mfe_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+baseline_exit_mae_240m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+baseline_exit_min_240m,float64,minutes since T0; missing trigger means untriggered if complete path,56,36
+baseline_exit_gross_240m,float64,,92,0
+baseline_exit_net_240m,float64,,92,0
+post_reverse_follow_through_240m,float64,,56,36
+new_extreme_end_240m,int64,USDT per BTC,92,0
+up_then_down_end_240m,int64,,92,0
+down_then_up_end_240m,int64,,92,0
+status_1440m,object,,92,0
+p0_1440m,float64,USDT per BTC,91,1
+confirm_price_1440m,float64,USDT per BTC,91,1
+first_return_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+direction_1440m,float64,,91,1
+fade50_at_confirm_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+first_extreme_1440m,float64,USDT per BTC,91,1
+first_continuous_5m_1440m,float64,,91,1
+sigma_c_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+z_1440m,float64,,91,1
+end_price_1440m,float64,USDT per BTC,91,1
+release_return_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+entry_price_1440m,float64,USDT per BTC,91,1
+entry_utc_1440m,object,,91,1
+exit_price_1440m,float64,USDT per BTC,91,1
+gross_return_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+net_return_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+mfe_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+mae_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+keep_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+new_extreme_touch_1440m,float64,USDT per BTC,91,1
+fade50_touch_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+fade100_touch_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+fade50_end_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+fade100_end_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+reverse5_touch_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+reverse5_end_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+first_reverse5_min_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,70,22
+gross_win_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+net_win_1440m,float64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,91,1
+baseline_exit_price_1440m,float64,USDT per BTC,91,1
+baseline_exit_utc_1440m,object,,91,1
+baseline_exit_mfe_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+baseline_exit_mae_1440m,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,91,1
+baseline_exit_min_1440m,float64,minutes since T0; missing trigger means untriggered if complete path,70,22
+baseline_exit_gross_1440m,float64,,91,1
+baseline_exit_net_1440m,float64,,91,1
+post_reverse_follow_through_1440m,float64,,70,22
+new_extreme_end_1440m,float64,USDT per BTC,91,1
+up_then_down_end_1440m,float64,,91,1
+down_then_up_end_1440m,float64,,91,1
+btc_first_direction,int64,,92,0
+strong_first_03,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+strong_first_05,int64,0/1 flag if numeric; trigger minute fields are minutes; missing is not false,92,0
+A_15_to60_signal_min,int64,minutes since T0; missing trigger means untriggered if complete path,92,0
+A_15_to60_entry_utc,object,,92,0
+A_15_to60_entry_price,float64,USDT per BTC,92,0
+A_15_to60_exit_utc,object,,92,0
+A_15_to60_exit_price,float64,USDT per BTC,92,0
+A_15_to60_gross_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+A_15_to60_net_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+A_15_to60_mfe,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+A_15_to60_mae,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+A_15_to60_re_reversal5,float64,,0,92
+A_15_to240_signal_min,int64,minutes since T0; missing trigger means untriggered if complete path,92,0
+A_15_to240_entry_utc,object,,92,0
+A_15_to240_entry_price,float64,USDT per BTC,92,0
+A_15_to240_exit_utc,object,,92,0
+A_15_to240_exit_price,float64,USDT per BTC,92,0
+A_15_to240_gross_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+A_15_to240_net_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+A_15_to240_mfe,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+A_15_to240_mae,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,92,0
+A_15_to240_re_reversal5,float64,,0,92
+B_hold60_signal_min,float64,minutes since T0; missing trigger means untriggered if complete path,56,36
+B_hold60_entry_utc,object,,56,36
+B_hold60_entry_price,float64,USDT per BTC,56,36
+B_hold60_exit_utc,object,,56,36
+B_hold60_exit_price,float64,USDT per BTC,56,36
+B_hold60_gross_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,56,36
+B_hold60_net_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,56,36
+B_hold60_mfe,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,56,36
+B_hold60_mae,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,56,36
+B_hold60_re_reversal5,float64,,56,36
+B_to240_signal_min,float64,minutes since T0; missing trigger means untriggered if complete path,56,36
+B_to240_entry_utc,object,,56,36
+B_to240_entry_price,float64,USDT per BTC,56,36
+B_to240_exit_utc,object,,56,36
+B_to240_exit_price,float64,USDT per BTC,56,36
+B_to240_gross_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,56,36
+B_to240_net_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,56,36
+B_to240_mfe,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,56,36
+B_to240_mae,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,56,36
+B_to240_re_reversal5,float64,,56,36
+C30_hold60_signal_min,float64,minutes since T0; missing trigger means untriggered if complete path,71,21
+C30_hold60_entry_utc,object,,71,21
+C30_hold60_entry_price,float64,USDT per BTC,71,21
+C30_hold60_exit_utc,object,,71,21
+C30_hold60_exit_price,float64,USDT per BTC,71,21
+C30_hold60_gross_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,71,21
+C30_hold60_net_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,71,21
+C30_hold60_mfe,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,71,21
+C30_hold60_mae,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,71,21
+C30_hold60_re_reversal5,float64,,0,92
+C60_hold240_signal_min,float64,minutes since T0; missing trigger means untriggered if complete path,59,33
+C60_hold240_entry_utc,object,,59,33
+C60_hold240_entry_price,float64,USDT per BTC,59,33
+C60_hold240_exit_utc,object,,59,33
+C60_hold240_exit_price,float64,USDT per BTC,59,33
+C60_hold240_gross_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,59,33
+C60_hold240_net_return,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,59,33
+C60_hold240_mfe,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,59,33
+C60_hold240_mae,float64,decimal fractional price return (0.01=1%); sigma/z fields see SPECIFICATION,59,33
+C60_hold240_re_reversal5,float64,,0,92

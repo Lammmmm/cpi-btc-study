@@ -1,0 +1,31 @@
+growth_spec,horizon_min,target,n,status,term,coefficient,ci_low,ci_high,p_value,q_value
+growth_strict,30,first_return,10,rank_deficient_or_insufficient,,,,,,
+growth_strict,30,release_return,10,rank_deficient_or_insufficient,,,,,,
+growth_strict,60,first_return,10,rank_deficient_or_insufficient,,,,,,
+growth_strict,60,release_return,10,rank_deficient_or_insufficient,,,,,,
+growth_strict,240,first_return,10,rank_deficient_or_insufficient,,,,,,
+growth_strict,240,release_return,10,rank_deficient_or_insufficient,,,,,,
+growth_snapshot,30,first_return,32,exploratory_HC3; no causal interpretation,intercept,-0.002926602936419995,-0.010602725636517235,0.004749519763677245,0.441369454483156,0.5296433453797873
+growth_snapshot,30,first_return,32,exploratory_HC3; no causal interpretation,abs_surprise,0.05294823383274999,-0.014032294573704113,0.1199287622392041,0.11659965469528812,0.2575801410044808
+growth_snapshot,30,first_return,32,exploratory_HC3; no causal interpretation,growth_bad,-0.014123733409424985,-0.032062940153670616,0.003815473334820645,0.11801830327438223,0.2575801410044808
+growth_snapshot,30,first_return,32,exploratory_HC3; no causal interpretation,surprise_growth_interaction,0.13817653713204378,-0.021113814117997204,0.2974668883820848,0.08645284163341584,0.2575801410044808
+growth_snapshot,30,release_return,32,exploratory_HC3; no causal interpretation,intercept,-0.0022692154826368903,-0.01356739701067935,0.00902896604540557,0.6838981609788137,0.7393241331433937
+growth_snapshot,30,release_return,32,exploratory_HC3; no causal interpretation,abs_surprise,0.06100677196021284,-0.03859430624927121,0.1606078501696969,0.21997012408796368,0.3299551861319455
+growth_snapshot,30,release_return,32,exploratory_HC3; no causal interpretation,growth_bad,-0.02346577058234056,-0.05425333578466446,0.0073217946199833316,0.12969481459129878,0.2575801410044808
+growth_snapshot,30,release_return,32,exploratory_HC3; no causal interpretation,surprise_growth_interaction,0.20784372920632785,-0.0804557924423275,0.49614325085498323,0.15090020531437057,0.2586860662532067
+growth_snapshot,60,first_return,32,exploratory_HC3; no causal interpretation,intercept,-0.002926602936419995,-0.010602725636517235,0.004749519763677245,0.441369454483156,0.5296433453797873
+growth_snapshot,60,first_return,32,exploratory_HC3; no causal interpretation,abs_surprise,0.05294823383274999,-0.014032294573704113,0.1199287622392041,0.11659965469528812,0.2575801410044808
+growth_snapshot,60,first_return,32,exploratory_HC3; no causal interpretation,growth_bad,-0.014123733409424985,-0.032062940153670616,0.003815473334820645,0.11801830327438223,0.2575801410044808
+growth_snapshot,60,first_return,32,exploratory_HC3; no causal interpretation,surprise_growth_interaction,0.13817653713204378,-0.021113814117997204,0.2974668883820848,0.08645284163341584,0.2575801410044808
+growth_snapshot,60,release_return,32,exploratory_HC3; no causal interpretation,intercept,-0.003308772432590195,-0.01861372656223222,0.011996181697051828,0.6612807807293193,0.7393241331433937
+growth_snapshot,60,release_return,32,exploratory_HC3; no causal interpretation,abs_surprise,0.06235240546945063,-0.07462824212295928,0.19933305306186055,0.35909197489064376,0.506953376316203
+growth_snapshot,60,release_return,32,exploratory_HC3; no causal interpretation,growth_bad,-0.023481923056446606,-0.053658323490479005,0.006694477377585793,0.12216817467359621,0.2575801410044808
+growth_snapshot,60,release_return,32,exploratory_HC3; no causal interpretation,surprise_growth_interaction,0.20769204478468759,-0.0720532781906584,0.48743736776003355,0.1395225763774271,0.2575801410044808
+growth_snapshot,240,first_return,32,exploratory_HC3; no causal interpretation,intercept,-0.002926602936419995,-0.010602725636517235,0.004749519763677245,0.441369454483156,0.5296433453797873
+growth_snapshot,240,first_return,32,exploratory_HC3; no causal interpretation,abs_surprise,0.05294823383274999,-0.014032294573704113,0.1199287622392041,0.11659965469528812,0.2575801410044808
+growth_snapshot,240,first_return,32,exploratory_HC3; no causal interpretation,growth_bad,-0.014123733409424985,-0.032062940153670616,0.003815473334820645,0.11801830327438223,0.2575801410044808
+growth_snapshot,240,first_return,32,exploratory_HC3; no causal interpretation,surprise_growth_interaction,0.13817653713204378,-0.021113814117997204,0.2974668883820848,0.08645284163341584,0.2575801410044808
+growth_snapshot,240,release_return,32,exploratory_HC3; no causal interpretation,intercept,0.006445649480201418,-0.02851369371774034,0.041404992678143175,0.7085189609290856,0.7393241331433937
+growth_snapshot,240,release_return,32,exploratory_HC3; no causal interpretation,abs_surprise,-0.0018578237117186057,-0.30488841930085675,0.30117277187741953,0.9900691657016072,0.9900691657016072
+growth_snapshot,240,release_return,32,exploratory_HC3; no causal interpretation,growth_bad,-0.044722766701397576,-0.1017185213531185,0.012272987950323347,0.11920390991701642,0.2575801410044808
+growth_snapshot,240,release_return,32,exploratory_HC3; no causal interpretation,surprise_growth_interaction,0.3142722154027045,-0.18640555295069078,0.8149499837560998,0.20905496988595457,0.3299551861319455

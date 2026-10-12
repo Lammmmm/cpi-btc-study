@@ -1,0 +1,19 @@
+﻿hypothesis,group_a,group_b,outcome,horizon_min,n_a,n_b,effect_a_minus_b,ci_low,ci_high,p,method,count_a,count_b,q_primary
+H1,H1_mild,H1_big,net_return,60,15,15,-0.00819086260813,-0.0118179743092,-0.00459404108957,0.000199980002,independent permutation / independent event bootstrap,,,0.003599640036
+H1,H1_mild,H1_big,net_return,240,15,15,-0.00973993987368,-0.0234835433346,0.00358524918245,0.182381761824,independent permutation / independent event bootstrap,,,0.555244475552
+H1,H1_mild,H1_big,reverse5_touch,240,15,15,0.133333333333,-0.202406939811,0.430786715337,0.715249186552,Fisher two-sided / Newcombe Wilson difference,8,6,0.863673632637
+H2,H2_core_mild_cold_up,H2_core_big_cold_up,net_return,60,10,7,-0.00464872295863,-0.0105732725224,0.00148830514243,0.129187081292,independent permutation / independent event bootstrap,,,0.555244475552
+H2,H2_core_mild_cold_up,H2_core_big_cold_up,net_return,240,10,7,-0.00442942032561,-0.0170963569726,0.0088121264324,0.521847815218,independent permutation / independent event bootstrap,,,0.782771722828
+H2,H2_core_mild_cold_up,H2_core_big_cold_up,reverse5_touch,240,10,7,0.0142857142857,-0.389717647844,0.379462184084,1,Fisher two-sided / Newcombe Wilson difference,3,2,1
+H3,H3_dual_extreme_hot_down,H3_dual_other_hot_down,net_return,60,3,11,0.00536725711702,-0.00419835117255,0.0138658485407,0.224777522248,independent permutation / independent event bootstrap,,,0.555244475552
+H3,H3_dual_extreme_hot_down,H3_dual_other_hot_down,net_return,240,3,11,0.03005931636,0.00204570612524,0.0563627214307,0.0573942605739,independent permutation / independent event bootstrap,,,0.516548345165
+H3,H3_dual_extreme_hot_down,H3_dual_other_hot_down,reverse5_touch,240,3,11,-0.212121212121,-0.575962955035,0.318072160671,1,Fisher two-sided / Newcombe Wilson difference,1,6,1
+H4,H4_hy_inline_up,H4_hy_cold_up,net_return,60,10,15,0.00214079487596,-0.00273364721783,0.00720895435243,0.43295670433,independent permutation / independent event bootstrap,,,0.782771722828
+H4,H4_hy_inline_up,H4_hy_cold_up,net_return,240,10,15,0.00929579306911,-0.00601515481498,0.0229139131276,0.210378962104,independent permutation / independent event bootstrap,,,0.555244475552
+H4,H4_hy_inline_up,H4_hy_cold_up,reverse5_touch,240,10,15,-0.3,-0.556058472415,0.0649826494433,0.179353026836,Fisher two-sided / Newcombe Wilson difference,1,6,0.555244475552
+H5_headline,H5_hy_contrarian,H5_hy_aligned,net_return,60,10,30,-0.00285905968744,-0.00748250650347,0.00144019893212,0.246775322468,independent permutation / independent event bootstrap,,,0.555244475552
+H5_headline,H5_hy_contrarian,H5_hy_aligned,net_return,240,10,30,-0.00262799429922,-0.0161757445386,0.0119188881098,0.719728027197,independent permutation / independent event bootstrap,,,0.863673632637
+H5_headline,H5_hy_contrarian,H5_hy_aligned,reverse5_touch,240,10,30,0.133333333333,-0.20149427397,0.417496856821,0.716426555136,Fisher two-sided / Newcombe Wilson difference,6,14,0.863673632637
+H5_core,H5_cm_contrarian,H5_cm_aligned,net_return,60,9,32,-0.000708471080249,-0.00574722929027,0.00499953816815,0.787521247875,independent permutation / independent event bootstrap,,,0.88596140386
+H5_core,H5_cm_contrarian,H5_cm_aligned,net_return,240,9,32,-0.00489130635381,-0.0160840403639,0.00649590598702,0.480051994801,independent permutation / independent event bootstrap,,,0.782771722828
+H5_core,H5_cm_contrarian,H5_cm_aligned,reverse5_touch,240,9,32,0.149305555556,-0.18648889048,0.44626055217,0.470980173419,Fisher two-sided / Newcombe Wilson difference,5,13,0.782771722828

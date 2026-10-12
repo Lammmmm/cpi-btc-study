@@ -1,0 +1,5 @@
+state,n,status,missing_dates_file
+2Y_down_NQ_up,0,not_verified_missing_2Y_ZT_NQ,cross_asset_missing.csv
+2Y_down_NQ_down,0,not_verified_missing_2Y_ZT_NQ,cross_asset_missing.csv
+2Y_up_NQ_down,0,not_verified_missing_2Y_ZT_NQ,cross_asset_missing.csv
+2Y_up_NQ_up,0,not_verified_missing_2Y_ZT_NQ,cross_asset_missing.csv
